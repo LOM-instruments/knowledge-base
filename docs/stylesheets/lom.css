@@ -478,15 +478,17 @@ body, .md-typeset, .md-header, .md-tabs, .md-nav, .md-footer {
   opacity: 0.55;
 }
 
-/* ── Footer (custom partial) ─────────────────────────────────────── */
+/* ── Footer (custom partial — replaces Material's md-footer entirely) ─── */
 
 .lom-footer {
-  padding: 48px 24px 32px;
   border-top: 1px solid var(--ink);
+  background: var(--paper);
+}
+.lom-footer-grid {
+  padding: 48px 24px 32px;
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 1fr;
   gap: 40px;
-  background: var(--paper);
 }
 .lom-footer .lom-footer-col h4 {
   font-size: 13px; color: var(--ink-3);
@@ -507,10 +509,17 @@ body, .md-typeset, .md-header, .md-tabs, .md-nav, .md-footer {
 .lom-footer .bmark-ver  { font-family: var(--mono); font-size: 11px; color: var(--ink-3); }
 .lom-footer .bmark-desc { font-size: 13px; color: var(--ink-3); line-height: 1.55; max-width: 36ch; }
 
+.lom-footer-meta {
+  padding: 18px 24px;
+  border-top: 1px solid var(--hairline);
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
 @media (max-width: 900px) {
   .grid4, .grid3 { grid-template-columns: repeat(2, 1fr); }
   .pd { grid-template-columns: 1fr; }
-  .lom-footer { grid-template-columns: 1fr 1fr; }
+  .lom-footer-grid { grid-template-columns: 1fr 1fr; }
 }
 
 
@@ -1089,22 +1098,6 @@ body[data-md-page="home"] .md-content,
   background: var(--paper) !important;
   color: var(--ink) !important;
 }
-
-/* ── Material footer (we hide default page-nav; use our partial) ── */
-.md-footer { background: var(--paper); color: var(--ink); border-top: none; }
-.md-footer__inner.md-grid { display: none !important; }
-.md-footer-meta {
-  background: var(--paper) !important;
-  color: var(--ink-3) !important;
-  padding: 24px !important;
-  border-top: 1px solid var(--hairline);
-  font-size: 12px;
-}
-.md-footer-meta .md-footer-copyright,
-.md-footer-meta .md-footer-copyright__highlight,
-.md-footer-meta a { color: var(--ink-3) !important; }
-.md-footer-meta a:hover { color: var(--ink) !important; }
-.md-footer-social__link { color: var(--ink) !important; }
 
 /* Inline prose images */
 .md-typeset img {

@@ -1,38 +1,43 @@
-<div class="lom-footer">
-  <div class="lom-footer-col brand">
-    <div class="bmark">
-      <div class="logo-circle"></div>
-      <div>
-        <div class="bmark-name">LOM Knowledge Base</div>
-        <div class="bmark-ver">Apr 2026</div>
+<footer class="lom-footer">
+  <div class="lom-footer-grid">
+    <div class="lom-footer-col brand">
+      <div class="bmark">
+        <div class="logo-circle"></div>
+        <div>
+          <div class="bmark-name">LOM Knowledge Base</div>
+          <div class="bmark-ver">Apr 2026</div>
+        </div>
+      </div>
+      <div class="bmark-desc">
+        Manuals, build guides, and tips for LOM instruments.
+        Companion to the store at <a href="https://store.lom.audio">store.lom.audio</a>.
       </div>
     </div>
-    <div class="bmark-desc">
-      Manuals, build guides, and tips for LOM instruments.
-      Companion to the store at <a href="https://store.lom.audio">store.lom.audio</a>.
+    <div class="lom-footer-col">
+      <h4>Products</h4>
+      <a href="{{ 'manuals/usi/' | url }}">Uši</a>
+      <a href="{{ 'manuals/mikrousi/' | url }}">mikroUši</a>
+      <a href="{{ 'manuals/basicucho/' | url }}">basicUcho</a>
+      <a href="{{ 'manuals/elektrosluch-3/' | url }}">Elektrosluch</a>
+      <a href="{{ 'manuals/geofon/' | url }}">Geofón</a>
+      <a href="{{ 'manuals/usi-comparison/' | url }}">Compare</a>
+    </div>
+    <div class="lom-footer-col">
+      <h4>Knowledge</h4>
+      <a href="{{ 'guides/geofon-diy/' | url }}">Build guides</a>
+      <a href="{{ 'tips/mounting-usi/' | url }}">Tips &amp; tricks</a>
+      <a href="{{ 'research/contact-mics/' | url }}">Research &amp; open source</a>
+      <a href="{{ 'faq/' | url }}">FAQ</a>
+    </div>
+    <div class="lom-footer-col">
+      <h4>Elsewhere</h4>
+      <a href="https://store.lom.audio">Store ↗</a>
+      <a href="https://lom.audio">lom.audio ↗</a>
+      <a href="https://github.com/lom-instruments">GitHub ↗</a>
+      <a href="https://lom.audio/@instruments">Mastodon ↗</a>
     </div>
   </div>
-  <div class="lom-footer-col">
-    <h4>Products</h4>
-    <a href="{{ 'manuals/usi/' | url }}">Uši</a>
-    <a href="{{ 'manuals/mikrousi/' | url }}">mikroUši</a>
-    <a href="{{ 'manuals/basicucho/' | url }}">basicUcho</a>
-    <a href="{{ 'manuals/elektrosluch-3/' | url }}">Elektrosluch</a>
-    <a href="{{ 'manuals/geofon/' | url }}">Geofón</a>
-    <a href="{{ 'manuals/usi-comparison/' | url }}">Compare</a>
-  </div>
-  <div class="lom-footer-col">
-    <h4>Knowledge</h4>
-    <a href="{{ 'guides/geofon-diy/' | url }}">Build guides</a>
-    <a href="{{ 'tips/mounting-usi/' | url }}">Tips &amp; tricks</a>
-    <a href="{{ 'research/contact-mics/' | url }}">Research &amp; open source</a>
-    <a href="{{ 'faq/' | url }}">FAQ</a>
-  </div>
-  <div class="lom-footer-col">
-    <h4>Elsewhere</h4>
-    <a href="https://store.lom.audio">Store ↗</a>
-    <a href="https://lom.audio">lom.audio ↗</a>
-    <a href="https://github.com/lom-instruments">GitHub ↗</a>
-    <a href="https://lom.audio/@instruments">Mastodon ↗</a>
-  </div>
-</div>
+  {% if config.copyright %}
+    <div class="lom-footer-meta">{{ config.copyright }}</div>
+  {% endif %}
+</footer>
