@@ -943,6 +943,15 @@ html { scroll-padding-top: calc(var(--nav-h) + 44px); }
 }
 .md-content__inner::before { display: none !important; }
 
+/* Back-to-top button: Material defaults to top:3.2rem, which sits inside
+   our sticky header. Push it below the header (and tabs on desktop). */
+.md-top {
+  top: calc(var(--nav-h) + 16px) !important;
+}
+@media screen and (min-width: 76.25em) {
+  .md-top { top: calc(var(--nav-h) + 44px + 16px) !important; }
+}
+
 /* Home page: full-bleed, no content padding */
 body[data-md-page="home"] .md-content,
 .md-content:has(> article > .hero:first-of-type),
