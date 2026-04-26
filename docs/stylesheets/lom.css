@@ -921,8 +921,8 @@ body, .md-typeset, .md-header, .md-tabs, .md-nav, .md-footer {
 html { scroll-padding-top: calc(var(--nav-h) + 44px); }
 .md-content__inner {
   max-width: 820px;
-  margin: 0 auto;
-  padding: 40px 32px 60px;
+  margin: 0;
+  padding: 40px 24px 60px;
   min-width: 0;
 }
 .md-content__inner::before { display: none !important; }
