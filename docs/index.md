@@ -141,28 +141,30 @@ hide:
 <a class="banner-right" href="tips/mounting-usi/">View all <span>→</span></a>
 </div>
 
+<div class="tip-list">
 <a class="tip-row" href="tips/mounting-usi/">
-<span class="tr-num">TIP 01</span>
-<span><span class="tr-title">Mounting Uši</span><div class="tr-body">Clips, mounts, and creative techniques for placing a stereo pair.</div></span>
-<span class="tr-cta">Read →</span>
+<div class="tr-num">TIP 01</div>
+<div class="tr-content"><div class="tr-title">Mounting Uši</div><div class="tr-body">Clips, mounts, and creative techniques for placing a stereo pair.</div></div>
+<div class="tr-cta">Read →</div>
 </a>
 <a class="tip-row" href="tips/recording-ultrasound/">
-<span class="tr-num">TIP 02</span>
-<span><span class="tr-title">Recording ultrasound</span><div class="tr-body">Capture and slow down ultrasonic sounds with mikroUši.</div></span>
-<span class="tr-cta">Read →</span>
+<div class="tr-num">TIP 02</div>
+<div class="tr-content"><div class="tr-title">Recording ultrasound</div><div class="tr-body">Capture and slow down ultrasonic sounds with mikroUši.</div></div>
+<div class="tr-cta">Read →</div>
 </a>
 <a class="tip-row" href="tips/recording-workflow/">
-<span class="tr-num">TIP 03</span>
-<span><span class="tr-title">Recording workflow</span><div class="tr-body">Overview of a field-recording session from prep to archive.</div></span>
-<span class="tr-cta">Read →</span>
+<div class="tr-num">TIP 03</div>
+<div class="tr-content"><div class="tr-title">Recording workflow</div><div class="tr-body">Overview of a field-recording session from prep to archive.</div></div>
+<div class="tr-cta">Read →</div>
 </a>
 <a class="tip-row" href="tips/listening-exercises/">
-<span class="tr-num">TIP 04</span>
-<span><span class="tr-title">Listening exercises</span><div class="tr-body">Train your ears — practical drills for close listening.</div></span>
-<span class="tr-cta">Read →</span>
+<div class="tr-num">TIP 04</div>
+<div class="tr-content"><div class="tr-title">Listening exercises</div><div class="tr-body">Train your ears — practical drills for close listening.</div></div>
+<div class="tr-cta">Read →</div>
 </a>
 <a class="tip-row" href="research/field-recording-south-east-asia/">
-<span class="tr-num">ESSAY</span>
-<span><span class="tr-title">Field recording in South-East Asia</span><div class="tr-body">Greg Simmons on putting a rig together for tropical climates.</div></span>
-<span class="tr-cta">Read →</span>
+<div class="tr-num">ESSAY</div>
+<div class="tr-content"><div class="tr-title">Field recording in South-East Asia</div><div class="tr-body">Greg Simmons on putting a rig together for tropical climates.</div></div>
+<div class="tr-cta">Read →</div>
 </a>
+</div>

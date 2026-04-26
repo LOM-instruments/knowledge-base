@@ -435,6 +435,7 @@ body, .md-typeset, .md-header, .md-tabs, .md-nav, .md-footer {
 }
 .tip-row:hover { background: var(--paper-2); }
 .tip-row .tr-num { font-family: var(--mono); font-size: 11px; color: var(--ink-3); letter-spacing: 0.04em; }
+.tip-row .tr-content { min-width: 0; }
 .tip-row .tr-title { font-size: 15px; color: var(--ink); }
 .tip-row .tr-body { font-size: 13px; color: var(--ink-3); margin-top: 3px; }
 .tip-row .tr-cta { font-size: 13px; color: var(--ink); }
