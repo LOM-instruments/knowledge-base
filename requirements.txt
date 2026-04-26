@@ -1,0 +1,2 @@
+mkdocs-material>=9.0.0
+mkdocs-redirects>=1.2.0,<1.2.3  # 1.2.3 injects promo advertising for third-party "ProperDocs" fork

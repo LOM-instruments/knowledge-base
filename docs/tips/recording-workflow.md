@@ -1,0 +1,1 @@
+![](../images/recording_workflow.png)

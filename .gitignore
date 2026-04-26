@@ -1,0 +1,24 @@
+# Build output
+site/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Backup files
+*.backup
+*.bak
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Claude Code (keep launch.json shared, ignore local overrides)
+.claude/settings.local.json

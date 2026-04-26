@@ -1,0 +1,116 @@
+site_name: LOM Knowledge Base
+site_description: Manuals, build guides, and tips for LOM instruments
+site_author: LOM s.r.o.
+site_url: https://manuals.lom.audio
+
+theme:
+  name: material
+  custom_dir: overrides
+  font: false
+  logo: images/logo.png
+  favicon: images/logo.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.indexes
+    - navigation.sections
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/lom.css
+
+extra_javascript:
+  - javascripts/cmd-k.js
+  - javascripts/audio-sample.js
+  - javascripts/lom-enhancements.js
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        guides/geofon.md: guides/geofon-diy.md
+        guides/elektrosluch-mini-city.md: guides/elektrosluch-mini-city-v2.md
+
+nav:
+  - Home: index.md
+  - Microphones:
+      - Uši: manuals/usi.md
+      - Uši Pro: manuals/usi-pro.md
+      - Ucho Pro: manuals/ucho-pro.md
+      - mikroUši: manuals/mikrousi.md
+      - mikroUši Pro: manuals/mikrousi-pro.md
+      - mikroUcho Pro: manuals/mikroucho-pro.md
+      - basicUcho: manuals/basicucho.md
+  - Electromagnetic:
+      - Elektrosluch 3 / 3+: manuals/elektrosluch-3.md
+      - Elektrouši: manuals/elektrousi.md
+      - Elektroucho Pro: manuals/elektroucho-pro.md
+      - Priezor: manuals/priezor.md
+  - Vibration:
+      - Geofón: manuals/geofon.md
+      - Geofón FAQ: geofon-faq.md
+  - Build guides:
+      - Geofón DIY Kit: guides/geofon-diy.md
+      - Geofón Damping Mod: guides/geofon-damping-mod.md
+      - Elektrosluch Mini City: guides/elektrosluch-mini-city-v2.md
+      - Elektrosluch Mini: guides/elektrosluch-mini.md
+  - Tips & tricks:
+      - Mounting Uši: tips/mounting-usi.md
+      - Equipment: tips/equipment.md
+      - Recording Ultrasound: tips/recording-ultrasound.md
+      - Listening Exercises: tips/listening-exercises.md
+      - Recording Workflow: tips/recording-workflow.md
+      - Useful Links: tips/links.md
+  - Research:
+      - DIY Contact Mics: research/contact-mics.md
+      - DIY Stereo Bar: research/diy-stereo-bar.md
+      - Modular Stereo Bar: research/modular-stereo-bar.md
+      - Uši Clips & Accessories: research/usi-clips.md
+      - MixPre Knob: research/mixpre-knob.md
+      - Lewitt to Rycote Adapter: research/lewitt-to-rycote.md
+      - EM Sensitivity: research/electromagnetic-sensitivity.md
+      - Geofón XLR: research/geofon-xlr.md
+      - Hydrophones: research/hydrophones.md
+      - Field Recording in South-East Asia: research/field-recording-south-east-asia.md
+      - VooDooMan: research/voodooman.md
+  - Compare: manuals/usi-comparison.md
+  - FAQ: faq.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lom-instruments
+    - icon: fontawesome/brands/mastodon
+      link: https://lom.audio/@instruments
+
+copyright: "© 2026 LOM s.r.o., Jelenia 10, 811 05 Bratislava, Slovakia · CC BY-SA 4.0"
