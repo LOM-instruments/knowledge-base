@@ -872,6 +872,12 @@ body, .md-typeset, .md-header, .md-tabs, .md-nav, .md-footer {
 /* ── Hide primary sidebar on desktop; keep TOC on the right ─────── */
 @media screen and (min-width: 76.25em) {
   .md-sidebar--primary { display: none !important; }
+  /* Material applies `margin-left: 1.2rem` to .md-content__inner whenever
+     .md-sidebar--primary lacks the [hidden] attribute. We hide it via
+     display:none (not [hidden]), so the phantom margin sticks — kill it. */
+  .md-sidebar--primary ~ .md-content > .md-content__inner {
+    margin-left: 0 !important;
+  }
 }
 
 .md-sidebar--secondary {
