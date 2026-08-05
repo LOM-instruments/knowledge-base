@@ -140,23 +140,6 @@ Elektrouši listen to the inaudible electromagnetic side of the world: electroni
 <div class="banner dark">
 <h2>Compatible accessories</h2>
 </div>
-
-<div class="accessory-grid">
-<div class="accessory-card">
-<img src="../../images/v-ruke_web.jpg" alt="">
-<div class="accessory-body">
-<div class="accessory-title">Elektrosluch 3+</div>
-<div class="accessory-desc">Handheld electromagnetic listening device</div>
-<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/elektrosluch-3">Buy</a> <span class="sep">·</span> <a class="ref" href="../elektrosluch-3/">Details</a></div>
-</div>
-</div>
-<div class="accessory-card">
-<div style="aspect-ratio:1/1;background:var(--lom-bg-surface)"></div>
-<div class="accessory-body">
-<div class="accessory-title">Elektrosluch Mini City</div>
-<div class="accessory-desc">DIY kit for building your own Elektrosluch</div>
-<div class="accessory-links"></div>
-</div>
 </div>
 <div class="accessory-card">
 <img src="../../images/usi_mount.jpg" alt="">
