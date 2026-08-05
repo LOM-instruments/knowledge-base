@@ -24,20 +24,6 @@ Single phantom-powered miniature omnidirectional electret microphone with profes
   </div>
 </div>
 
-<div class="banner">
-<h2>Important information</h2>
-</div>
-
-<div class="prose-block" markdown>
-
---8<-- "safety-microphones.md"
-
-!!! danger "Use only LOM cables"
-
-    Never use third-party mini-XLR cables with mikroUcho Pro. The included cable contains circuitry that converts phantom power to the voltage the capsule expects — **connecting a plain cable while phantom power is on may permanently damage the microphone**, and such damage is not covered by the warranty.
-
-</div>
-
 <div class="split-row" markdown>
 
 <div class="split-cell" markdown>
@@ -102,6 +88,12 @@ Single phantom-powered miniature omnidirectional electret microphone with profes
 
 <div class="prose-block" markdown>
 
+--8<-- "safety-microphones.md"
+
+!!! danger "Use only LOM cables"
+
+    Never use third-party mini-XLR cables with mikroUcho Pro. The included cable contains circuitry that converts phantom power to the voltage the capsule expects — **connecting a plain cable while phantom power is on may permanently damage the microphone**, and such damage is not covered by the warranty.
+
 **Will it work with my recorder?**
 
 mikroUcho Pro needs one XLR microphone input with **phantom power** (24–48 V, IEC 61938). Any recorder or preamp with standard 48 V phantom works; if yours has a 24 V mode, it saves battery with identical performance. The microphone draws ~3 mA.
@@ -127,7 +119,7 @@ Press the button on the mini-XLR connector and pull the capsule straight off. If
 
 **Expanding to a stereo pair**
 
-A second mikroUcho Pro makes an (unmatched) stereo pair; for sensitivity-matched stereo, see [mikroUši Pro](mikrousi-pro.md). The capsule also works with the Uši (minijack) cable — use only LOM cables (see Important information above).
+A second mikroUcho Pro makes an (unmatched) stereo pair; for sensitivity-matched stereo, see [mikroUši Pro](mikrousi-pro.md). The capsule also works with the Uši (minijack) cable — use only LOM cables (see the safety notes above).
 
 </div>
 

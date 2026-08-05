@@ -24,20 +24,6 @@ Matched stereo pair of miniature high-quality omnidirectional electret microphon
   </div>
 </div>
 
-<div class="banner">
-<h2>Important information</h2>
-</div>
-
-<div class="prose-block" markdown>
-
---8<-- "safety-microphones.md"
-
-!!! danger "Use only LOM cables"
-
-    Never use third-party mini-XLR cables with mikroUši. LOM cables contain circuitry that adapts the recorder's voltage to the capsules — **connecting a plain cable to a powered input may permanently damage the microphones**, and such damage is not covered by the warranty.
-
-</div>
-
 <div class="split-row" markdown>
 
 <div class="split-cell" markdown>
@@ -101,6 +87,12 @@ Matched stereo pair of miniature high-quality omnidirectional electret microphon
 
 <div class="prose-block" markdown>
 
+--8<-- "safety-microphones.md"
+
+!!! danger "Use only LOM cables"
+
+    Never use third-party mini-XLR cables with mikroUši. LOM cables contain circuitry that adapts the recorder's voltage to the capsules — **connecting a plain cable to a powered input may permanently damage the microphones**, and such damage is not covered by the warranty.
+
 **Will it work with my recorder?**
 
 mikroUši needs a 3.5 mm stereo microphone input that provides **plug-in power** (2–10 V). Practically every dedicated field recorder has one — though on some, plug-in power must be enabled in a menu first. Smartphone and laptop headset sockets use different wiring (TRRS, mono mic) and are **not** directly compatible. If your recorder only has XLR inputs, use the [Uši phantom adapter](https://store.lom.audio/products/usi-phantom-adapter) or swap to the [Uši Pro (XLR) cable](https://store.lom.audio/products/usi-pro-cable).
@@ -123,7 +115,7 @@ For outdoor recording, slip a windbubble over each capsule to reduce wind noise.
 
 **Swapping cables**
 
-The system is fully modular: mikroUši capsules also work with the Uši Pro (XLR) cable for phantom-powered recorders. Use only LOM cables (see Important information above).
+The system is fully modular: mikroUši capsules also work with the Uši Pro (XLR) cable for phantom-powered recorders. Use only LOM cables (see the safety notes above).
 
 **Disconnecting the capsules from the cable**
 

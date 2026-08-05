@@ -16,10 +16,10 @@ hide:
       <a class="btn" href="https://store.lom.audio/products/geofon">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
-Sensitive geophone adjusted for field recording purposes. Originally designed for seismic measurements, Geofón captures very faint vibrations in various materials and soil using standard field recording equipment. Suitable for sound art, experimental music, infrastructure monitoring, and soil research.
+Geofón is a sensitive omnidirectional geophone adapted for field recording. Originally designed for seismic measurements, it can be used with standard field recording equipment to capture very faint vibrations in various materials and even soil. It is now used by sound designers, musicians, field recordists and sound artists around the world. It comes in a waterproof plastic case, with a neodymium magnet, a spike and a suction cup.
     </div>
     <div class="credits">
-      <div><span class="key">In the box:</span> 1× Geofón, 1× neodymium magnet (M4), 1× suction cup (M4), 1× extender and spike</div>
+      <div><span class="key">In the box:</span> 1× Geofón, 1× neodymium magnet (M4), 1× suction cup (M4), 1× extender and spike, 1x waterproof & dustproof polypropylene box</div>
     </div>
   </div>
 </div>
@@ -40,7 +40,6 @@ Sensitive geophone adjusted for field recording purposes. Originally designed fo
 - Professional XLR-3M output
 - Balanced gold-plated Neutrik connector
 - Includes neodymium magnet and suction cup for mounting
-- Robust metal housing
 - Multiple mounting options
 
 </div>

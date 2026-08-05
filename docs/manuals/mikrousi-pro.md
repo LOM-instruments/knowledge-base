@@ -24,20 +24,6 @@ Matched stereo pair of phantom-powered miniature omnidirectional electret microp
   </div>
 </div>
 
-<div class="banner">
-<h2>Important information</h2>
-</div>
-
-<div class="prose-block" markdown>
-
---8<-- "safety-microphones.md"
-
-!!! danger "Use only LOM cables"
-
-    Never use third-party mini-XLR cables with mikroUši Pro. The Uši Pro (XLR) cable contains circuitry that converts phantom power to the voltage the capsules expect — **connecting a plain cable while phantom power is on may permanently damage the microphones**, and such damage is not covered by the warranty.
-
-</div>
-
 <div class="split-row" markdown>
 
 <div class="split-cell" markdown>
@@ -103,6 +89,12 @@ Matched stereo pair of phantom-powered miniature omnidirectional electret microp
 
 <div class="prose-block" markdown>
 
+--8<-- "safety-microphones.md"
+
+!!! danger "Use only LOM cables"
+
+    Never use third-party mini-XLR cables with mikroUši Pro. The Uši Pro (XLR) cable contains circuitry that converts phantom power to the voltage the capsules expect — **connecting a plain cable while phantom power is on may permanently damage the microphones**, and such damage is not covered by the warranty.
+
 **Will it work with my recorder?**
 
 mikroUši Pro needs two XLR microphone inputs with **phantom power** (24–48 V, IEC 61938). Any recorder or preamp with standard 48 V phantom works; if yours has a 24 V mode, it saves battery with identical performance. Each microphone draws ~3 mA. If you only have a 3.5 mm plug-in-power recorder, the capsules also work with the [Uši (minijack) cable](https://store.lom.audio/products/usi-cable).
@@ -126,7 +118,7 @@ For outdoor recording, slip a windbubble over each capsule to reduce wind noise.
 
 **Swapping cables**
 
-The system is fully modular: mikroUši Pro capsules also work with the Uši (minijack) cable for plug-in-power recorders. Use only LOM cables (see Important information above).
+The system is fully modular: mikroUši Pro capsules also work with the Uši (minijack) cable for plug-in-power recorders. Use only LOM cables (see the safety notes above).
 
 **Disconnecting the capsules from the cable**
 

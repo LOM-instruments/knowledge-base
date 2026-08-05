@@ -26,20 +26,6 @@ hide:
   </div>
 </div>
 
-<div class="banner">
-<h2>Important information</h2>
-</div>
-
-<div class="prose-block" markdown>
-
---8<-- "safety-microphones.md"
-
-!!! danger "Use only LOM cables"
-
-    Never use third-party mini-XLR cables with Uši. LOM cables contain circuitry that adapts the recorder's voltage to the capsules — **connecting a plain cable to a powered input may permanently damage the microphones**, and such damage is not covered by the warranty.
-
-</div>
-
 <div class="split-row" markdown>
 
 <div class="split-cell" markdown>
@@ -54,8 +40,9 @@ hide:
 - Modular cable system (swap between minijack and XLR)
 - Compact ⌀13 mm capsule for discreet placement
 - Exceptionally low self-noise (~14 dBA)
-- High sensitivity (−28 dB re 1 V/Pa)
+- High sensitivity (−28 dB re 1 V/Pa; −18 dB with the Uši Pro cable)
 - Plug-in powered (2–10 V)
+- Wide range of accessories
 
 </div>
 
@@ -103,6 +90,12 @@ hide:
 
 <div class="prose-block" markdown>
 
+--8<-- "safety-microphones.md"
+
+!!! danger "Use only LOM cables"
+
+    Never use third-party mini-XLR cables with Uši. LOM cables contain circuitry that adapts the recorder's voltage to the capsules — **connecting a plain cable to a powered input may permanently damage the microphones**, and such damage is not covered by the warranty.
+
 **Will it work with my recorder?**
 
 Uši needs a 3.5 mm stereo microphone input that provides **plug-in power** (2–10 V). Practically every dedicated field recorder has one — though on some, plug-in power must be enabled in a menu first. Smartphone and laptop headset sockets use different wiring (TRRS, mono mic) and are **not** directly compatible. If your recorder only has XLR inputs, use the [Uši phantom adapter](https://store.lom.audio/products/usi-phantom-adapter) or swap to the [Uši Pro (XLR) cable](https://store.lom.audio/products/usi-pro-cable).
@@ -129,7 +122,7 @@ Seat the microphone in the lyre of the Uši mount for suspension that isolates i
 
 **Swapping cables**
 
-The system is fully modular: Uši capsules also work with the Uši Pro (XLR) cable for phantom-powered recorders, and Uši Pro capsules work with this minijack cable — just swap. Use only LOM cables (see Important information above).
+The system is fully modular: Uši capsules also work with the Uši Pro (XLR) cable for phantom-powered recorders, and Uši Pro capsules work with this minijack cable — just swap. Use only LOM cables (see the safety notes above).
 
 **Disconnecting the capsules from the cable**
 

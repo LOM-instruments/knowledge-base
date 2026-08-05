@@ -335,7 +335,7 @@ body, .md-typeset, .md-header, .md-tabs, .md-nav, .md-footer {
 .pd-info .actions .btn { flex: 1 1 auto; min-width: 0; }
 .pd-info .body {
   font-size: 14px; line-height: 1.55; color: var(--ink);
-  margin-bottom: 20px; max-width: 52ch;
+  margin-bottom: 20px;
 }
 .pd-info .credits { font-size: 13px; line-height: 1.6; color: var(--ink-2); }
 .pd-info .credits .key { color: var(--ink); font-weight: 500; }

@@ -24,16 +24,6 @@ Phantom-powered, high-quality omnidirectional electret microphone with an indust
   </div>
 </div>
 
-<div class="banner">
-<h2>Important information</h2>
-</div>
-
-<div class="prose-block" markdown>
-
---8<-- "safety-microphones.md"
-
-</div>
-
 <div class="split-row" markdown>
 
 <div class="split-cell" markdown>
@@ -95,6 +85,8 @@ Phantom-powered, high-quality omnidirectional electret microphone with an indust
 </div>
 
 <div class="prose-block" markdown>
+
+--8<-- "safety-microphones.md"
 
 **Will it work with my recorder?**
 
