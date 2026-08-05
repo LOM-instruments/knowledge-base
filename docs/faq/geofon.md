@@ -34,11 +34,11 @@ You need a **balanced XLR cable** to connect Geofón to your recorder. A standar
 
 This is the most common question, and the answer is: because piezo and geophone transducers measure different physical quantities of the same vibration, and they have very different mechanical characteristics.
 
-A piezo crystal responds to **strain** (deformation of the surface) and effectively functions as a high-frequency-emphasizing sensor in the audible range. Its first mechanical resonance is typically in the tens of kHz, well above hearing, so it stays bright and articulate throughout the audio band.
+A piezo crystal responds to **strain** (deformation of the surface) and effectively functions as a high-frequency-emphasizing sensor in the audible range.
 
 Geofón is a **velocity** sensor. It responds to how fast the surface is moving, not how much it is deformed. The moving mass of the coil (10.3 g) and the spider suspension have parasitic resonances starting around 400 Hz and increasing in influence above 1 kHz, which gradually attenuate the high end. The housing also has inertia: at high frequencies, the housing can no longer perfectly follow the surface motion, especially on light or stiff surfaces.
 
-The result: piezo sounds bright, crispy, near-surface. Geofón sounds dark, weighty, structural. Neither is wrong — they are recording different things.
+The result: piezo sounds bright, crispy, near-surface. If using circular piezo disc, it can sound "metallic" due to its low resonant frequency. Geofón sounds dark, weighty, structural. Neither is wrong — they are recording different things.
 
 ### What does it sound best on?
 

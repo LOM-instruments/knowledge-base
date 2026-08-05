@@ -41,9 +41,7 @@ Sensitive geophone adjusted for field recording purposes. Originally designed fo
 - Usable frequency range 20 Hz – 1 kHz, naturally flat above 20 Hz
 - Professional XLR-3M output
 - Balanced gold-plated Neutrik connector
-- Includes neodymium magnet and suction cup for mounting
-- Robust metal housing
-- Multiple mounting options
+- Includes neodymium magnet, spike and suction cup for mounting
 
 </div>
 
@@ -104,13 +102,13 @@ Yes, if it has a balanced XLR microphone input. Geofón is a fully passive trans
 1. Mount the Geofón: the bottom of the case has an **M4 thread** for the provided neodymium magnet, suction cup, or spike (via the extender).
 2. Connect a standard balanced XLR cable from the Geofón to your recorder's mic input.
 3. Set the gain, and enable your recorder's high-pass filter if you don't want the infrasonic content — Geofón has genuine output well below 20 Hz.
-4. Experiment with placement. Mounting is part of the signal path: rigid contact transmits faithfully, loose contact loses highs and rattles. Different spots on the same structure can sound dramatically different.
+4. Experiment with placement. Mounting is part of the signal path: rigid contact transmits faithfully, loose contact loses highs and rattles. Different spots on the same structure can sound dramatically different. Taping the cable to a rigid structure will reduce the cable noise transmission.
 
 **Mounting options**
 
 - **Magnet** — for ferrous surfaces: steel beams, fences, machinery, vehicle bodies. Excellent coupling, very repeatable.
 - **Spike** (via extender) — for soil, soft wood, snow, sand. Works best firmly seated.
-- **Suction cup** — for truly smooth surfaces: glass, polished stone, lacquered wood. Texture defeats it.
+- **Suction cup** — for truly smooth surfaces: glass, polished stone, lacquered wood. Won't work on textured surfaces.
 - **None of the above?** Firm contact under the Geofón's own weight works on rough surfaces — a heavy weight on top improves coupling. Gaffer tape or museum putty also work.
 - **For sensitive measurements**, unscrew the bottom plastic part to expose the element and attach it directly with poster-hanging adhesive putty.
 
@@ -118,7 +116,6 @@ Yes, if it has a balanced XLR microphone input. Geofón is a fully passive trans
 
 - **A clinking sound when shaking the Geofón is normal and expected.** It is the inner coil suspended on springs.
 - **Orientation doesn't matter.** The omni-tilt element works vertically, horizontally, upside-down, or at any angle.
-- Geofón works both outdoors and indoors.
 
 </div>
 
