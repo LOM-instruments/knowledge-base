@@ -264,6 +264,8 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 
 <div class="product-gallery" markdown>
 ![](../images/usi_with_clips.jpg)
+![](../images/usi_clip.jpg)
+![](../images/usi_mount_2.jpg)
 </div>
 
 <div class="banner">
