@@ -222,8 +222,8 @@ Geofón hears the structural side of the world — not airborne sound, but the m
 
 <div class="product-gallery" markdown>
 ![](../images/geofon_1-2.jpg)
-![](../images/Geofón case open.jpg)
-![](../images/Geofón case.jpg)
+![](../images/geofon-case-open.jpg)
+![](../images/geofon-case.jpg)
 </div>
 
 <div class="banner">
