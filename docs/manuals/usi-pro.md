@@ -13,7 +13,6 @@ hide:
     <h1>Uši Pro</h1>
     <div class="tagline">Matched stereo electret pair · ⌀13 mm · XLR balanced, 24–48 V phantom</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/usi-pro-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/usi-pro">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -178,7 +177,7 @@ Uši Pro is at home wherever quiet sources meet professional gear: nature ambien
 </div>
 
 <div class="banner dark">
-<h2>What to do if…</h2>
+<h2>Troubleshooting</h2>
 </div>
 
 <div class="prose-block" markdown>
@@ -270,7 +269,6 @@ Uši Pro is at home wherever quiet sources meet professional gear: nature ambien
 
 <div class="prose-block" markdown>
 
-[↓ Spec Sheet PDF](../downloads/usi-pro-spec.pdf){.download-btn}
 
 
 *Manual PDF download coming soon*

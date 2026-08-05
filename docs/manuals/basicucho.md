@@ -13,7 +13,6 @@ hide:
     <h1>basicUcho</h1>
     <div class="tagline">Mono electret · ⌀20.3 mm · XLR balanced, 24–48 V phantom</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/basicucho-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/basicucho">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -157,7 +156,7 @@ basicUcho is built for quiet sources and rough conditions: nature ambiences and 
 </div>
 
 <div class="banner dark">
-<h2>What to do if…</h2>
+<h2>Troubleshooting</h2>
 </div>
 
 <div class="prose-block" markdown>

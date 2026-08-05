@@ -13,7 +13,6 @@ hide:
     <h1>Elektrosluch 3+</h1>
     <div class="tagline">Stereo electromagnetic listener · 3.5 mm headphone / line-out</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/elektrosluch-3-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/elektrosluch-3">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">

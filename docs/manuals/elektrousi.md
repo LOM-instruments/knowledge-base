@@ -13,7 +13,6 @@ hide:
     <h1>Elektrouši</h1>
     <div class="tagline">Passive electromagnetic sensor pair · 3.5 mm stereo</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/elektrousi-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/elektrousi">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -127,7 +126,6 @@ A pair of passive electromagnetic sensors for extended electromagnetic listening
 
 <div class="prose-block" markdown>
 
-[↓ Spec Sheet PDF](../downloads/elektrousi-spec.pdf){.download-btn}
 
 
 *Manual PDF download coming soon*

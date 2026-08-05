@@ -13,7 +13,6 @@ hide:
     <h1>Ucho Pro</h1>
     <div class="tagline">Mono electret · ⌀13 mm · XLR balanced, 24–48 V phantom</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/ucho-pro-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/ucho-pro">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -171,7 +170,7 @@ Ucho Pro covers mono duties with the same voice as the Uši Pro pair: spot-mikin
 </div>
 
 <div class="banner dark">
-<h2>What to do if…</h2>
+<h2>Troubleshooting</h2>
 </div>
 
 <div class="prose-block" markdown>

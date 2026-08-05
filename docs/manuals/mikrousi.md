@@ -13,7 +13,6 @@ hide:
     <h1>mikroUši</h1>
     <div class="tagline">Matched stereo electret pair · ⌀6.8 mm · 3.5 mm TRS, plug-in power</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/mikrousi-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/mikrousi">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -167,7 +166,7 @@ mikroUši is the choice when the microphone must disappear: covert and discreet 
 </div>
 
 <div class="banner dark">
-<h2>What to do if…</h2>
+<h2>Troubleshooting</h2>
 </div>
 
 <div class="prose-block" markdown>
@@ -235,7 +234,6 @@ mikroUši is the choice when the microphone must disappear: covert and discreet 
 
 <div class="prose-block" markdown>
 
-[↓ Spec Sheet PDF](../downloads/mikrousi-spec.pdf){.download-btn}
 
 
 *Manual PDF download coming soon*

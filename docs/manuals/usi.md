@@ -13,7 +13,6 @@ hide:
     <h1>Uši</h1>
     <div class="tagline">Matched stereo electret pair · ⌀13 mm · 3.5 mm TRS, plug-in power</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/usi-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/usi">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -173,7 +172,7 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 </div>
 
 <div class="banner dark">
-<h2>What to do if…</h2>
+<h2>Troubleshooting</h2>
 </div>
 
 <div class="prose-block" markdown>
@@ -280,7 +279,6 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 
 <div class="prose-block" markdown>
 
-- [Spec sheet PDF →](../downloads/usi-spec.pdf)
 
 *Manual PDF download coming soon.*
 

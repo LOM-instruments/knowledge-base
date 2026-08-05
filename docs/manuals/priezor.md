@@ -13,7 +13,6 @@ hide:
     <h1>Priezor</h1>
     <div class="tagline">Passive magnetic antenna / VLF · XLR balanced</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/priezor-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/priezor">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">

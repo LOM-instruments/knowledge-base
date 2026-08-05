@@ -13,7 +13,6 @@ hide:
     <h1>Geofón</h1>
     <div class="tagline">Contact geophone for vibrations · XLR balanced</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/geofon-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/geofon">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">

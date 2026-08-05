@@ -13,7 +13,6 @@ hide:
     <h1>mikroUši Pro</h1>
     <div class="tagline">Matched stereo electret pair · ⌀6.8 mm · XLR balanced, 24–48 V phantom</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/mikrousi-pro-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/mikrousi-pro">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -170,7 +169,7 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 </div>
 
 <div class="banner dark">
-<h2>What to do if…</h2>
+<h2>Troubleshooting</h2>
 </div>
 
 <div class="prose-block" markdown>
@@ -230,7 +229,6 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 
 <div class="prose-block" markdown>
 
-[↓ Spec Sheet PDF](../downloads/mikrousi-pro-spec.pdf){.download-btn}
 
 
 *Manual PDF download coming soon*

@@ -13,7 +13,6 @@ hide:
     <h1>mikroUcho Pro</h1>
     <div class="tagline">Mono electret · ⌀6.8 mm · XLR balanced, 24–48 V phantom</div>
     <div class="actions">
-      <a class="btn btn-solid" href="../downloads/mikroucho-pro-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/mikroucho-pro">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
@@ -167,7 +166,7 @@ mikroUcho Pro is the mono workhorse for placements where the microphone must van
 </div>
 
 <div class="banner dark">
-<h2>What to do if…</h2>
+<h2>Troubleshooting</h2>
 </div>
 
 <div class="prose-block" markdown>
