@@ -172,7 +172,7 @@ body, .md-typeset, .md-header, .md-tabs, .md-nav, .md-footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1px;
-  margin: 0 0 8px;
+  margin: 0;
 }
 .md-typeset .product-gallery p { display: contents; margin: 0; }
 .md-typeset .product-gallery img {

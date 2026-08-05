@@ -193,7 +193,7 @@ mikroUcho Pro is the mono workhorse for placements where the microphone must van
 
 <div class="product-gallery" markdown>
 ![](../images/mikroucho_pro_with_clip.jpg)
-![](../images/mikroucho_pro_with_3.0_clip.jpg)
+![](../images/mikrousi_detail.jpg)
 </div>
 
 <div class="banner">

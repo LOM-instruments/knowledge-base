@@ -198,8 +198,8 @@ basicUcho is built for quiet sources and rough conditions: nature ambiences and 
 
 <div class="product-gallery" markdown>
 ![](../images/basicucho_2.jpg)
-![](../images/basicucho_windkiller.jpg)
-![](../images/basicucho_windkiller_2.jpg)
+![](../images/basicucho.jpg)
+![](../images/basicucho_mount_3_flipped.jpg)
 </div>
 
 <div class="banner">

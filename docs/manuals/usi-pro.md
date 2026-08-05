@@ -253,6 +253,8 @@ Uši Pro is at home wherever quiet sources meet professional gear: nature ambien
 
 <div class="product-gallery" markdown>
 ![](../images/usi_pro_with_clips.jpg)
+![](../images/usi_clip.jpg)
+![](../images/usi_mount_2.jpg)
 </div>
 
 <div class="banner">

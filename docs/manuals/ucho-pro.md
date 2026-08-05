@@ -229,6 +229,8 @@ Ucho Pro covers mono duties with the same voice as the Uši Pro pair: spot-mikin
 
 <div class="product-gallery" markdown>
 ![](../images/ucho_pro_with_clip.jpg)
+![](../images/usi_clip.jpg)
+![](../images/usi_mount_2.jpg)
 </div>
 
 <div class="banner">

@@ -213,6 +213,7 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 
 <div class="product-gallery" markdown>
 ![](../images/mikrousi_pro_with_clips.jpg)
+![](../images/mikrousi_detail.jpg)
 </div>
 
 <div class="banner">
