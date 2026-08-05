@@ -1,21 +1,49 @@
-# DIY Uši microphone clips & accessories
+# DIY microphone clips & accessories
 
-## Classic clip
-![](../images/classic_clip.jpg)  
-3D printed part + eBay sourced lavalier microphone clip  
-[Download (*.stl)](https://github.com/LOM-instruments/Usi-accesories) • [Buy](https://store.lom.audio/collections/microphones-accessories/products/usi-clip-single)
+Open-source, 3D-printable clips, mounts, and adapters for LOM microphones. Print your own or buy the ready-made version from the store. STL files are on [GitHub](https://github.com/LOM-instruments/Usi-accesories).
 
-## Magnetic clip
-![](../images/usi_magnetic_holder.jpg)  
-3D printed part + neodymium magnet (ELESA+GANTER GN 50.2-ND-13-M3)  
-[Download (*.stl)](https://github.com/LOM-instruments/Usi-accesories) • [Buy](https://store.lom.audio/collections/microphones-accessories/products/magnetic-usi-clip)
+<div class="banner">
+<h2>Uši</h2>
+</div>
 
-## Uši basic mount
-![](../images/3-8_clip.jpg)  
-For use with standard microphone thread 3/8"  
-[Download (*.stl)](https://github.com/LOM-instruments/Usi-accesories)
+<div class="accessory-grid">
+<div class="accessory-card">
+<img src="../../images/classic_clip.jpg" alt="">
+<div class="accessory-body">
+<div class="accessory-title">Classic clip</div>
+<div class="accessory-desc">3D-printed part plus an eBay-sourced lavalier microphone clip.</div>
+<div class="accessory-links"><a class="buy" href="https://github.com/LOM-instruments/Usi-accesories">Download STL</a> <span class="sep">·</span> <a class="ref" href="https://store.lom.audio/products/usi-clip-single">Buy</a></div>
+</div>
+</div>
+<div class="accessory-card">
+<img src="../../images/usi_magnetic_holder.jpg" alt="">
+<div class="accessory-body">
+<div class="accessory-title">Magnetic clip</div>
+<div class="accessory-desc">3D-printed part plus a neodymium magnet (ELESA+GANTER GN 50.2-ND-13-M3).</div>
+<div class="accessory-links"><a class="buy" href="https://github.com/LOM-instruments/Usi-accesories">Download STL</a> <span class="sep">·</span> <a class="ref" href="https://store.lom.audio/products/magnetic-usi-clip">Buy</a></div>
+</div>
+</div>
+<div class="accessory-card">
+<img src="../../images/3-8_clip.jpg" alt="">
+<div class="accessory-body">
+<div class="accessory-title">Uši basic mount</div>
+<div class="accessory-desc">For use with a standard 3/8" microphone stand thread.</div>
+<div class="accessory-links"><a class="buy" href="https://github.com/LOM-instruments/Usi-accesories">Download STL</a></div>
+</div>
+</div>
+</div>
 
-## Uši expander
-![](../images/usi_expander_small.jpeg)  
-For use with Uši series microphones. Expander expands the diameter of the microphone to basicUcho size, making it compatible with basicUcho accesories.  
-[Download (*.stl)](https://github.com/LOM-instruments/Usi-accesories)
+<div class="banner">
+<h2>basicUcho</h2>
+</div>
+
+<div class="accessory-grid">
+<div class="accessory-card">
+<img src="../../images/usi_expander_small.jpeg" alt="">
+<div class="accessory-body">
+<div class="accessory-title">Uši expander</div>
+<div class="accessory-desc">Expands a Uši microphone to basicUcho diameter, making it compatible with basicUcho accessories.</div>
+<div class="accessory-links"><a class="buy" href="https://github.com/LOM-instruments/Usi-accesories">Download STL</a> <span class="sep">·</span> <a class="ref" href="https://store.lom.audio/products/usi-expander-single">Buy</a></div>
+</div>
+</div>
+</div>

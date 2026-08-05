@@ -1,0 +1,45 @@
+<!-- lom-tabs-v6 server-rendered -->
+{#-
+  Custom top tabs with hover/click mega-menu dropdowns, rendered entirely
+  server-side from the nav (no JavaScript). The first child of each section
+  is its overview page: the tab label links to it and the dropdown shows it
+  as "Overview", followed by the section's other children.
+-#}
+<nav class="md-tabs" aria-label="{{ lang.t('tabs') }}" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      {% for nav_item in nav.items %}
+        {% if nav_item.children %}
+          {% set overview = nav_item.children | first %}
+          {% set ns = namespace(items=[]) %}
+          {% set _ = ns.items.append({"url": overview.url, "label": "Overview"}) %}
+          {% for child in nav_item.children %}
+            {% if not loop.first %}
+              {% if child.children %}
+                {% set _ = ns.items.append({"url": (child.children | first).url, "label": child.title}) %}
+              {% else %}
+                {% set _ = ns.items.append({"url": child.url, "label": child.title}) %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          <li class="md-tabs__item lom-has-menu{% if nav_item.active %} md-tabs__item--active{% endif %}">
+            <a href="{{ overview.url | url }}" class="md-tabs__link{% if nav_item.active %} md-tabs__link--active{% endif %}">{{ nav_item.title }}<span class="lom-plus">+</span></a>
+            <div class="lom-megamenu">
+              {% for col in ns.items | batch(8) %}
+                <div class="lom-megamenu-col">
+                  {% for it in col %}
+                    <a href="{{ it.url | url }}">{{ it.label }}</a>
+                  {% endfor %}
+                </div>
+              {% endfor %}
+            </div>
+          </li>
+        {% else %}
+          <li class="md-tabs__item{% if nav_item.active %} md-tabs__item--active{% endif %}">
+            <a href="{{ nav_item.url | url }}" class="md-tabs__link{% if nav_item.active %} md-tabs__link--active{% endif %}">{{ nav_item.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

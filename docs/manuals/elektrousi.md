@@ -12,7 +12,6 @@ hide:
   <div class="pd-info">
     <h1>Elektrouši</h1>
     <div class="tagline">Passive electromagnetic sensor pair · 3.5 mm stereo</div>
-    <div class="ship">Manual, specifications, and compatible accessories below.</div>
     <div class="actions">
       <a class="btn btn-solid" href="../downloads/elektrousi-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/elektrousi">Buy at store.lom.audio ↗</a>
@@ -91,7 +90,7 @@ A pair of passive electromagnetic sensors for extended electromagnetic listening
 <div class="accessory-body">
 <div class="accessory-title">Elektrosluch 3+</div>
 <div class="accessory-desc">Handheld electromagnetic listening device</div>
-<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/elektrosluch-3-plus">Buy</a> <span class="sep">·</span> <a class="ref" href="../elektrosluch-3/">Details</a></div>
+<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/elektrosluch-3">Buy</a> <span class="sep">·</span> <a class="ref" href="../elektrosluch-3/">Details</a></div>
 </div>
 </div>
 <div class="accessory-card">
@@ -100,6 +99,14 @@ A pair of passive electromagnetic sensors for extended electromagnetic listening
 <div class="accessory-title">Elektrosluch Mini City</div>
 <div class="accessory-desc">DIY kit for building your own Elektrosluch</div>
 <div class="accessory-links"></div>
+</div>
+</div>
+<div class="accessory-card">
+<img src="../../images/usi_mount.jpg" alt="">
+<div class="accessory-body">
+<div class="accessory-title">Uši mount (single)</div>
+<div class="accessory-desc">Lyre shock-mount — the only mount safe for the Elektrouši plastic case</div>
+<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/usi-microphone-mount-single">Buy</a></div>
 </div>
 </div>
 </div>
@@ -124,5 +131,17 @@ A pair of passive electromagnetic sensors for extended electromagnetic listening
 
 
 *Manual PDF download coming soon*
+
+</div>
+
+<div class="banner">
+<h2>Frequently asked questions</h2>
+</div>
+
+<div class="prose-block" markdown>
+
+- [What's the difference between Elektrosluch, Elektrouši, Elektroucho Pro and Priezor?](../faq/electromagnetic.md#difference-em)
+- [Can Elektrouši be mounted with a Uši mount?](../faq/electromagnetic.md#elektrousi-mount)
+- [See all electromagnetic FAQs →](../faq/electromagnetic.md)
 
 </div>

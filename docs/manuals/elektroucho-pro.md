@@ -12,7 +12,6 @@ hide:
   <div class="pd-info">
     <h1>Elektroucho Pro</h1>
     <div class="tagline">Passive electromagnetic sensor · mono · XLR balanced</div>
-    <div class="ship">Manual, specifications, and compatible accessories below.</div>
     <div class="actions">
       <a class="btn btn-solid" href="../downloads/elektroucho-pro-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/elektroucho-pro">Buy at store.lom.audio ↗</a>
@@ -97,7 +96,7 @@ Mono passive electromagnetic sensor with professional XLR output. Use it as a re
 <div class="accessory-body">
 <div class="accessory-title">Geofón / Priezor adapter</div>
 <div class="accessory-desc">Allows minijack connection to XLR sensor output</div>
-<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/geofon-priezor-adapter">Buy</a></div>
+<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/xlr-3f-to-3-5mm-mini-jack-adapter">Buy</a></div>
 </div>
 </div>
 </div>
@@ -118,5 +117,17 @@ Mono passive electromagnetic sensor with professional XLR output. Use it as a re
 <div class="prose-block" markdown>
 
 *Manual PDF download coming soon*
+
+</div>
+
+<div class="banner">
+<h2>Frequently asked questions</h2>
+</div>
+
+<div class="prose-block" markdown>
+
+- [What's the difference between Elektrosluch, Elektrouši, Elektroucho Pro and Priezor?](../faq/electromagnetic.md#difference-em)
+- [Can Elektrouši be mounted with a Uši mount?](../faq/electromagnetic.md#elektrousi-mount)
+- [See all electromagnetic FAQs →](../faq/electromagnetic.md)
 
 </div>

@@ -1,7 +1,13 @@
-site_name: LOM Knowledge Base
+site_name: LOM knowledge base
 site_description: Manuals, build guides, and tips for LOM instruments
 site_author: LOM s.r.o.
-site_url: https://manuals.lom.audio
+site_url: https://knowledge.lom.audio
+
+# Internal files that must not be published as pages
+# (includes/ are snippet sources pulled into manuals at build time)
+exclude_docs: |
+  _sample-product.md
+  includes/
 
 theme:
   name: material
@@ -42,6 +48,9 @@ extra_javascript:
 
 markdown_extensions:
   - attr_list
+  - pymdownx.snippets:
+      base_path:
+        - docs/includes
   - md_in_html
   - admonition
   - pymdownx.details
@@ -52,7 +61,7 @@ markdown_extensions:
   - tables
   - footnotes
   - toc:
-      permalink: true
+      permalink: false
 
 plugins:
   - search
@@ -60,10 +69,14 @@ plugins:
       redirect_maps:
         guides/geofon.md: guides/geofon-diy.md
         guides/elektrosluch-mini-city.md: guides/elektrosluch-mini-city-v2.md
+        geofon-faq.md: faq/geofon.md
+        ordering.md: faq/ordering.md
+        shipping.md: faq/shipping.md
 
 nav:
   - Home: index.md
   - Microphones:
+      - manuals/microphones.md
       - Uši: manuals/usi.md
       - Uši Pro: manuals/usi-pro.md
       - Ucho Pro: manuals/ucho-pro.md
@@ -72,26 +85,31 @@ nav:
       - mikroUcho Pro: manuals/mikroucho-pro.md
       - basicUcho: manuals/basicucho.md
   - Electromagnetic:
-      - Elektrosluch 3 / 3+: manuals/elektrosluch-3.md
+      - manuals/electromagnetic.md
       - Elektrouši: manuals/elektrousi.md
+  - Geofón:
+      - manuals/geofon-overview.md
+      - Geofón: manuals/geofon.md
+      - Geofón DIY kit: manuals/geofon-diy-kit.md
+  - Discontinued:
+      - manuals/discontinued.md
+      - Elektrosluch 3 / 3+: manuals/elektrosluch-3.md
       - Elektroucho Pro: manuals/elektroucho-pro.md
       - Priezor: manuals/priezor.md
-  - Vibration:
-      - Geofón: manuals/geofon.md
-      - Geofón FAQ: geofon-faq.md
   - Build guides:
+      - guides/index.md
       - Geofón DIY Kit: guides/geofon-diy.md
-      - Geofón Damping Mod: guides/geofon-damping-mod.md
+      - Geofón Damping Compensation: guides/geofon-damping-mod.md
       - Elektrosluch Mini City: guides/elektrosluch-mini-city-v2.md
       - Elektrosluch Mini: guides/elektrosluch-mini.md
-  - Tips & tricks:
+  - Labs & research:
+      - research/index.md
       - Mounting Uši: tips/mounting-usi.md
       - Equipment: tips/equipment.md
       - Recording Ultrasound: tips/recording-ultrasound.md
       - Listening Exercises: tips/listening-exercises.md
       - Recording Workflow: tips/recording-workflow.md
       - Useful Links: tips/links.md
-  - Research:
       - DIY Contact Mics: research/contact-mics.md
       - DIY Stereo Bar: research/diy-stereo-bar.md
       - Modular Stereo Bar: research/modular-stereo-bar.md
@@ -103,8 +121,15 @@ nav:
       - Hydrophones: research/hydrophones.md
       - Field Recording in South-East Asia: research/field-recording-south-east-asia.md
       - VooDooMan: research/voodooman.md
-  - Compare: manuals/usi-comparison.md
-  - FAQ: faq.md
+      - Community designs: research/community-designs.md
+  - FAQ:
+      - faq/index.md
+      - Microphones: faq/microphones.md
+      - Electromagnetic: faq/electromagnetic.md
+      - Geofón: faq/geofon.md
+      - Ordering: faq/ordering.md
+      - Shipping: faq/shipping.md
+      - Troubleshooting: faq/troubleshooting.md
 
 extra:
   social:

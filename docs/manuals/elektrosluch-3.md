@@ -12,10 +12,9 @@ hide:
   <div class="pd-info">
     <h1>Elektrosluch 3+</h1>
     <div class="tagline">Stereo electromagnetic listener · 3.5 mm headphone / line-out</div>
-    <div class="ship">Manual, specifications, and compatible accessories below.</div>
     <div class="actions">
       <a class="btn btn-solid" href="../downloads/elektrosluch-3-spec.pdf">Download spec sheet (PDF) →</a>
-      <a class="btn" href="https://store.lom.audio/products/elektrosluch-3-plus">Buy at store.lom.audio ↗</a>
+      <a class="btn" href="https://store.lom.audio/products/elektrosluch-3">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
 Open-source handheld device for electromagnetic listening. Discover the sonic worlds of electromagnetic fields surrounding our every step. The most sensitive Elektrosluch yet — state-of-the-art operational amplifier with significantly improved signal-to-noise ratio and extended frequency response for capturing delicate electromagnetic sounds with greater detail.
@@ -118,5 +117,17 @@ Open-source handheld device for electromagnetic listening. Discover the sonic wo
 <div class="prose-block" markdown>
 
 *Manual PDF download coming soon*
+
+</div>
+
+<div class="banner">
+<h2>Frequently asked questions</h2>
+</div>
+
+<div class="prose-block" markdown>
+
+- [What's the difference between Elektrosluch, Elektrouši, Elektroucho Pro and Priezor?](../faq/electromagnetic.md#difference-em)
+- [Can Elektrouši be mounted with a Uši mount?](../faq/electromagnetic.md#elektrousi-mount)
+- [See all electromagnetic FAQs →](../faq/electromagnetic.md)
 
 </div>

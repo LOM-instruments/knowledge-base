@@ -7,7 +7,7 @@ Matched stereo electret pair · 3.5 mm TRS
   <div class="product-photo"></div>
   <div class="product-buy">
     <a class="md-button md-button--primary" href="#">Download manual (PDF)</a>
-    <a class="md-button" href="https://store.lom.audio/usi">Buy at store ↗</a>
+    <a class="md-button" href="https://store.lom.audio/products/usi">Buy at store ↗</a>
     <a class="md-button" href="../build-guides/">Build guide</a>
     <a class="md-button" href="../product-comparison/">Compare specs</a>
   </div>

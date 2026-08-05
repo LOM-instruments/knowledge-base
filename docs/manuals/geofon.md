@@ -12,7 +12,6 @@ hide:
   <div class="pd-info">
     <h1>Geofón</h1>
     <div class="tagline">Contact geophone for vibrations · XLR balanced</div>
-    <div class="ship">Manual, specifications, and compatible accessories below.</div>
     <div class="actions">
       <a class="btn btn-solid" href="../downloads/geofon-spec.pdf">Download spec sheet (PDF) →</a>
       <a class="btn" href="https://store.lom.audio/products/geofon">Buy at store.lom.audio ↗</a>
@@ -38,7 +37,7 @@ Sensitive geophone adjusted for field recording purposes. Originally designed fo
 
 - High sensitivity contact microphone
 - Omnidirectional vibration pickup
-- Extended frequency response (10 – 1000+ Hz)
+- Usable frequency range 20 Hz – 1 kHz, naturally flat above 20 Hz
 - Professional XLR-3M output
 - Balanced gold-plated Neutrik connector
 - Includes neodymium magnet and suction cup for mounting
@@ -60,7 +59,12 @@ Sensitive geophone adjusted for field recording purposes. Originally designed fo
 | Parameter | Value |
 |---|---|
 | Type | Omnidirectional geophone |
-| Frequency Response | 10 – 1000+ Hz |
+| Open-circuit sensitivity | 88 V/(m/s) |
+| Natural frequency | 20 Hz |
+| Coil DC resistance | 3500 Ω |
+| Recommended recorder input impedance | 2 kΩ (for flat response; higher values can be compensated — see [damping compensation](../guides/geofon-damping-mod.md)) |
+| Spurious frequency | > 400 Hz |
+| Usable frequency range | 20 Hz – 1 kHz (12 dB/oct rolloff below 20 Hz; diminishing fidelity above 400 Hz) |
 | Output | XLR-3M balanced gold-plated Neutrik |
 | Dimensions | 52.5 mm × ⌀36.5 mm |
 | Weight | 190 g (with cable and magnet) |
@@ -72,6 +76,10 @@ Sensitive geophone adjusted for field recording purposes. Originally designed fo
 </div>
 
 </div>
+
+<div class="split-row" markdown>
+
+<div class="split-cell" markdown>
 
 <div class="banner dark">
 <h2>How To Use Geofón</h2>
@@ -94,6 +102,20 @@ For sensitive measurements, you can unscrew the bottom plastic part of the geoph
 
 !!! warning
     Due to the nature of the geophone sensor, you may experience electromagnetic interference in specific urban areas and places with strong electromagnetic fields.
+
+</div>
+
+</div>
+
+<div class="split-cell" markdown>
+
+<div class="banner dark">
+<h2>Accessory guide</h2>
+</div>
+
+<a class="acc-guide" href="../../images/geofon-accessory-guide.png"><img src="../../images/geofon-accessory-guide.png" alt="Geofón accessory guide"></a>
+
+</div>
 
 </div>
 
@@ -123,7 +145,7 @@ For sensitive measurements, you can unscrew the bottom plastic part of the geoph
 <div class="accessory-body">
 <div class="accessory-title">Geofón extender and spike</div>
 <div class="accessory-desc">Extension mount with spike for ground penetration</div>
-<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/geofon-extender-and-spike">Buy</a></div>
+<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/geofon-extender-spike">Buy</a></div>
 </div>
 </div>
 <div class="accessory-card">
@@ -131,7 +153,7 @@ For sensitive measurements, you can unscrew the bottom plastic part of the geoph
 <div class="accessory-body">
 <div class="accessory-title">Geofón / Priezor adapter</div>
 <div class="accessory-desc">Adapter for alternative connections</div>
-<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/geofon-priezor-adapter">Buy</a></div>
+<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/xlr-3f-to-3-5mm-mini-jack-adapter">Buy</a></div>
 </div>
 </div>
 </div>
@@ -154,5 +176,18 @@ For sensitive measurements, you can unscrew the bottom plastic part of the geoph
 <div class="prose-block" markdown>
 
 *Manual PDF download coming soon*
+
+</div>
+<div class="banner">
+<h2>Frequently asked questions</h2>
+</div>
+
+<div class="prose-block" markdown>
+
+- [What is the Geofón?](../faq/geofon.md#what-is-the-geofon)
+- [What preamp or recorder works best?](../faq/geofon.md#recorder)
+- [Which Geofón element do I have?](../faq/geofon.md#which-element)
+- [Recording problems (boom, ringing, rattle)?](../faq/troubleshooting.md)
+- [See all Geofón FAQs →](../faq/geofon.md)
 
 </div>

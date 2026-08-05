@@ -1,0 +1,109 @@
+{% extends "main.html" %}
+
+{% block content %}
+<h1>Page not found</h1>
+<p>
+  This knowledge base recently moved from the old LOM wiki. If you followed
+  an old link, you should be taken to the right page automatically&hellip;
+</p>
+<p id="lom-404-hint" hidden>
+  No matching page was found. Try
+  <a id="lom-404-search" href="/">searching the knowledge base</a>
+  or start from the <a href="/">home page</a>.
+</p>
+
+<script>
+(function () {
+  "use strict";
+
+  /* Old DokuWiki URL -> new page. Keys: lowercase path, no trailing slash. */
+  var map = {
+    "/start": "/",
+    "/elektrosluchmini": "/guides/elektrosluch-mini/",
+    "/objednavky": "/faq/ordering/",
+
+    "/guides/geofon": "/guides/geofon-diy/",
+    "/guides/elektrosluchminicity": "/guides/elektrosluch-mini-city-v2/",
+    "/guides/elektrosluchmini": "/guides/elektrosluch-mini/",
+
+    "/build_guides/elektrosluch3plus": "/manuals/elektrosluch-3/",
+    "/build_guides/elektrosluchminicity": "/guides/elektrosluch-mini-city-v2/",
+    "/build_guides/priezor": "/manuals/priezor/",
+    "/build_guides/usi48": "/manuals/usi/",
+
+    "/manuals/elektrosluch3": "/manuals/elektrosluch-3/",
+    "/manuals/elektrouchopro": "/manuals/elektroucho-pro/",
+    "/manuals/uchopro": "/manuals/ucho-pro/",
+    "/manuals/usipro": "/manuals/usi-pro/",
+    "/manuals/usi_comparison": "/manuals/usi-comparison/",
+
+    "/tips/listening_exercises": "/tips/listening-exercises/",
+    "/tips/recording_ultrasound": "/tips/recording-ultrasound/",
+    "/tips/recording_workflow": "/tips/recording-workflow/",
+    "/tips/usi": "/tips/mounting-usi/",
+
+    "/research/start": "/research/",
+    "/research/contact_mics": "/research/contact-mics/",
+    "/research/diy_stereo_bar": "/research/diy-stereo-bar/",
+    "/research/electromagnetic_sensitivity": "/research/electromagnetic-sensitivity/",
+    "/research/electromagnetic_sensors": "/research/electromagnetic-sensitivity/",
+    "/research/electromagnetic_sensors_measurments": "/research/electromagnetic-sensitivity/",
+    "/research/field_recording_in_south_east_asia": "/research/field-recording-south-east-asia/",
+    "/research/geofon_xlr": "/research/geofon-xlr/",
+    "/research/lewitt_to_rycote": "/research/lewitt-to-rycote/",
+    "/research/mixpre_knob": "/research/mixpre-knob/",
+    "/research/modular_stereo_bar": "/research/modular-stereo-bar/",
+    "/research/usi_clips": "/research/usi-clips/",
+    "/research/ambisonics": "/research/",
+    "/research/album_to_ytb": "/research/",
+    "/research/horticulture": "/research/",
+    "/research/sklo": "/research/",
+
+    "/knowledge/artificial_ear": "/research/",
+    "/knowledge/eagle": "/research/",
+    "/knowledge/tlac": "/research/"
+  };
+
+  var loc = window.location;
+  var rawPath = loc.pathname.replace(/\/+$/, "").toLowerCase() || "/";
+  var path = rawPath;
+  var fromDoku = false;
+
+  /* Legacy query-style URLs: /doku.php?id=ns:page */
+  if (loc.pathname.indexOf("doku.php") !== -1) {
+    var m = loc.search.match(/[?&]id=([^&]+)/);
+    path = m
+      ? "/" + decodeURIComponent(m[1]).replace(/:/g, "/").toLowerCase()
+      : "/";
+    fromDoku = true;
+  }
+
+  var target = map[path];
+  var oldNs = /^\/(guides|build_guides|manuals|tips|research|knowledge)\//;
+
+  if (!target && oldNs.test(path)) {
+    if (fromDoku) {
+      /* e.g. ?id=manuals:usi -> /manuals/usi/ may exist as-is; try it once.
+         If it 404s again we land here without doku.php and fall through. */
+      target = path + "/";
+    } else {
+      /* Old wiki page with no direct equivalent: hand over to search. */
+      var slug = path.split("/").filter(Boolean).pop() || "";
+      target = "/?q=" + encodeURIComponent(slug.replace(/_/g, " "));
+    }
+  }
+
+  if (target) {
+    loc.replace(target);
+    return;
+  }
+
+  /* Genuine 404: reveal the hint with a prefilled search link. */
+  var words = (rawPath.split("/").filter(Boolean).pop() || "").replace(/[-_]/g, " ");
+  var search = document.getElementById("lom-404-search");
+  var hint = document.getElementById("lom-404-hint");
+  if (words && search) search.href = "/?q=" + encodeURIComponent(words);
+  if (hint) hint.hidden = false;
+})();
+</script>
+{% endblock %}

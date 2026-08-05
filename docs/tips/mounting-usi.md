@@ -1,33 +1,67 @@
 # How to mount (mikro) Uši (Pro)
-There are endless ways of mounting Uši microphones, however, we would like to list a few to get you started!
-#### Uši clips
+
+There are endless ways to mount Uši microphones — from purpose-made clips to a coat hanger. This page covers the ready-made options, improvised alternatives, and a few classic positioning techniques to get you started.
+
+All Uši-family microphones share the same silver groove near the capsule, so most clips work across the range. Just match the size: **Uši / Uši Pro / Ucho Pro** use the ⌀13 mm accessories, while **mikroUši / mikroUši Pro / mikroUcho Pro** use the smaller ⌀6.8 mm ones. If you'd rather 3D-print your own, see [DIY clips & accessories](../research/usi-clips.md).
+
+## Clips & mounts
+
+### Uši clips
+
 ![](../images/usi_clips-01.png)
 
-[Uši clips](https://store.lom.audio/products/usi-clip-single) are easy to use. Just attach them to the microphone via the silver groove on the microphone body.
-#### mikroUši clips
+[Uši clips](https://store.lom.audio/products/usi-clip-single) are the simplest option — clip them onto the silver groove on the microphone body and you're ready to position the mic on clothing, straps, or a stand.
+
+### mikroUši clips
+
 ![](../images/usi_clips-02.png)
 
-[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-2-0-single) are designed to be used with wind protection. Insert the cable of the microphone to the groove, and then gently pull the microphone into the designated "cup".
-#### Uši microphone mount
+[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-single) are designed to be used together with wind protection. Insert the microphone cable into the groove, then gently pull the microphone into the designated "cup".
+
+### Uši microphone mount
+
 ![](../images/microphone_mount_2.jpg)
 
-[Uši microphone mount](https://store.lom.audio/products/rycote-usi-mount) is the professional solution for mounting Uši range of mics. It provides excellent isolation from vibration noise coming to the mic through the stand.
-#### Discontinued clips
+The [Uši microphone mount](https://store.lom.audio/products/usi-microphone-mount-single) is the professional solution for the Uši range. Its lyre suspension gives excellent isolation from vibration (handling and stand-borne noise). It's also the only mount we recommend for [Elektrouši](../manuals/elektrousi.md), whose plastic case other clips can damage.
+
+### Magnetic clip
+
+![](../images/usi_magnetic_clip.jpg)
+
+The [magnetic Uši clip](https://store.lom.audio/products/magnetic-usi-clip) lets you snap the microphone onto any ferrous surface — railings, radiators, machinery, car bodies — for quick, stable placements without a stand.
+
+### Third-party lavalier clips
+
 ![](../images/original-300.jpg)
 
-They are easily accessible on eBay or other online stores. Look for "Sennheiser lavalier clip". Get the type with the circular holder, like on the picture.
+A cheap alternative: standard lavalier clips are widely available on eBay and elsewhere. Search for "Sennheiser lavalier clip" and choose the type with the circular holder, like the one pictured. Here's a short video on [how to mount them on your Uši](https://www.youtube.com/watch?v=4VlwUs4WB-s).
 
-Here is a short video on [how to mount them on your Uši](https://www.youtube.com/watch?v=4VlwUs4WB-s).
-#### Other
-Other ways of attaching Uši can be **rubber bands** (Uši mounted to your fingers, for example), **piece of solid-core wire**, **duct tape**, **blue-tack**...
-### Microphone arrangements
-#### Binaural recording
-One of the popular microphone techniques is called **binaural recording** – simulating an experience of listening. In that case, microphones are positioned in place of ones ears and allow for realistic recordings. The proper binaural technique involves [artificial dummy head](https://www.neumann.com/?lang=en&id=current_microphones&cid=ku100_description), but we had some great results with simple mounting of the mics on glasses in the position of ears.
-#### Coat hanger
-Other popular method (apparently invented by Chris Watson) is **coat hanger mount**, where small mics are attached to a regular metallic coat hanger, which serves as a microphone stand.
+## Creative & improvised mounting
+
+When you don't have a clip handy — or want an unusual placement — Uši are small and light enough for almost anything:
+
+- **Rubber bands** — lash the mics to your fingers for expressive, hand-held positioning, or to almost any object.
+- **Solid-core wire** — bend it into a custom holder or gooseneck.
+- **Duct / gaffer tape or blue-tack** — quick, temporary placement on walls, windows, and surfaces.
+- **Recorder bag** — attach the mics to a bag strap for a stealthy, discreet setup.
+
+## Microphone arrangements
+
+### Binaural recording
+
+A popular technique that simulates the experience of listening: the microphones are placed where your ears would be, producing strikingly realistic, immersive recordings. The formal approach uses an [artificial dummy head](https://www.neumann.com/en-en/products/microphones/ku-100/), but we've had great results simply mounting the mics on a pair of glasses at ear position.
+
+### Coat hanger
+
+A classic method (apparently invented by Chris Watson): clip the mics to a regular metal coat hanger, which doubles as a lightweight, packable stereo bar and stand.
 
 ![](../images/chris-watson-1.jpg)
-#### Other methods
-Another interesting and creative method is mounting the mics on your fingers using rubber bands, for great expressive positioning of the microphones in space.
 
-We have also done many recordings with simple attaching of the microphones on a recorder bag, for extra stealthy setup.
+### Spacing & angle
+
+For a wider stereo image, space the mics further apart; for a more focused, mono-compatible image, bring them closer and angle them slightly outward. There's no single correct spacing — experiment, and let the source and the space guide you.
+
+## See also
+
+- [DIY clips & accessories](../research/usi-clips.md) — 3D-printable clips, mounts, and the Uši expander.
+- [Microphones FAQ](../faq/microphones.md) — cables, matching, and choosing a model.
