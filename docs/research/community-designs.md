@@ -15,4 +15,4 @@ hide:
 </a>
 </div>
 
-Want your design featured here? Get in touch at [info@lom.audio](mailto:support@lom.audio).
+Want your design featured here? Get in touch at [support@lom.audio](mailto:support@lom.audio).

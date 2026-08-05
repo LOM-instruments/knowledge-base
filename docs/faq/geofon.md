@@ -186,7 +186,7 @@ Yes. We do not currently offer a pre-matched stereo pair, but two individual Geo
 
 ### Can you build a custom version?
 
-Possibly. Contact us at [info@lom.audio](mailto:info@lom.audio) with your specific need.
+Possibly. Contact us at [support@lom.audio](mailto:support@lom.audio) with your specific need.
 
 ### Related guides
 

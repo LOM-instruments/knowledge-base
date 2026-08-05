@@ -6,30 +6,36 @@ All Uši-family microphones share the same silver groove near the capsule, so mo
 
 ## Clips & mounts
 
-### Uši clips
+### Uši clip
 
 ![](../images/usi_clips-01.png)
 
 [Uši clips](https://store.lom.audio/products/usi-clip-single) are the simplest option — clip them onto the silver groove on the microphone body and you're ready to position the mic on clothing, straps, or a stand.
 
-### mikroUši clips
 
-![](../images/mikrousi_detail.jpg)
-
-[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-single) are designed to be used together with wind protection. Attached the microphone to the clip via provided groove.
-
-### Uši microphone mount
+### Uši mount
 
 ![](../images/usi_mount_2.jpg)
 
 The [Uši microphone mount](https://store.lom.audio/products/usi-microphone-mount-single) is the professional solution for the Uši range. Its lyre suspension gives excellent isolation from vibration (handling and stand-borne noise). It's also the only mount we recommend for [Elektrouši](../manuals/elektrousi.md), whose plastic case other clips can damage.
 
-### Magnetic clip
+### Uši magnetic clip
 
 ![](../images/usi_magnetic_clip.jpg)
 
 The [magnetic Uši clip](https://store.lom.audio/products/magnetic-usi-clip) lets you snap the microphone onto any ferrous surface — railings, radiators, machinery, car bodies — for quick, stable placements without a stand.
 
+### mikroUši clip
+
+![](../images/mikrousi_detail.jpg)
+
+[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-single) are designed to be used together with wind protection. Attached the microphone to the clip via provided groove.
+
+### basicUcho mount
+
+![](../images/basicucho_mount.jpg)
+
+The [basicUcho mount](https://store.lom.audio/products/basicucho-mount) is the professional mounting solution for the basicUcho range. Its lyre suspension gives excellent isolation from vibration (handling and stand-borne noise).
 
 ## Creative & improvised mounting
 
