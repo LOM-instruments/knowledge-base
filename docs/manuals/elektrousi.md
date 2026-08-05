@@ -140,7 +140,8 @@ Elektrouši listen to the inaudible electromagnetic side of the world: electroni
 <div class="banner dark">
 <h2>Compatible accessories</h2>
 </div>
-</div>
+
+<div class="accessory-grid">
 <div class="accessory-card">
 <img src="../../images/usi_mount.jpg" alt="">
 <div class="accessory-body">
@@ -158,7 +159,6 @@ Elektrouši listen to the inaudible electromagnetic side of the world: electroni
 
 <div class="product-gallery" markdown>
 ![](../images/elektrousi_v2.jpg)
-![](../images/elektrousi_web.jpg)
 </div>
 
 <div class="banner">
