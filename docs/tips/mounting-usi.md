@@ -14,13 +14,13 @@ All Uši-family microphones share the same silver groove near the capsule, so mo
 
 ### mikroUši clips
 
-![](../images/usi_clips-02.png)
+![](../images/mikrousi_detail.jpg)
 
-[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-single) are designed to be used together with wind protection. Insert the microphone cable into the groove, then gently pull the microphone into the designated "cup".
+[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-single) are designed to be used together with wind protection. Attached the microphone to the clip via provided groove.
 
 ### Uši microphone mount
 
-![](../images/microphone_mount_2.jpg)
+![](../images/usi_mount_2.jpg)
 
 The [Uši microphone mount](https://store.lom.audio/products/usi-microphone-mount-single) is the professional solution for the Uši range. Its lyre suspension gives excellent isolation from vibration (handling and stand-borne noise). It's also the only mount we recommend for [Elektrouši](../manuals/elektrousi.md), whose plastic case other clips can damage.
 
@@ -30,11 +30,6 @@ The [Uši microphone mount](https://store.lom.audio/products/usi-microphone-moun
 
 The [magnetic Uši clip](https://store.lom.audio/products/magnetic-usi-clip) lets you snap the microphone onto any ferrous surface — railings, radiators, machinery, car bodies — for quick, stable placements without a stand.
 
-### Third-party lavalier clips
-
-![](../images/original-300.jpg)
-
-A cheap alternative: standard lavalier clips are widely available on eBay and elsewhere. Search for "Sennheiser lavalier clip" and choose the type with the circular holder, like the one pictured. Here's a short video on [how to mount them on your Uši](https://www.youtube.com/watch?v=4VlwUs4WB-s).
 
 ## Creative & improvised mounting
 
@@ -59,7 +54,7 @@ A classic method (apparently invented by Chris Watson): clip the mics to a regul
 
 ### Spacing & angle
 
-For a wider stereo image, space the mics further apart; for a more focused, mono-compatible image, bring them closer and angle them slightly outward. There's no single correct spacing — experiment, and let the source and the space guide you.
+For a wider stereo image, space the mics further apart; for a more focused, mono-compatible image, bring them closer. There's no single correct spacing — experiment, and let the source and the space guide you. Some people prefer going at least 40 cm with omnidirectional microphones — use your ears when setting up and pick the spacing that suits you most.
 
 ## See also
 

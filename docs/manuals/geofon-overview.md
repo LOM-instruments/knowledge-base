@@ -31,7 +31,7 @@ A sensitive geophone for field recording — capturing vibration in surfaces, st
 
 - [Geofón FAQ](../faq/geofon.md) — what it is, how it sounds, recorders, frequency response, care.
 - [Damping compensation mod](../guides/geofon-damping-mod.md) — flatten the low-frequency resonance for higher-impedance recorders.
-- [DIY assembly guide](../guides/geofon-diy.md) — build the kit step by step.
-- [Geofón XLR](../research/geofon-xlr.md) — wiring and connector notes.
+- [Geofón DIY kit assembly guide](../guides/geofon-diy.md) — build the kit step by step.
+- [Geofón XLR mod](../research/geofon-xlr.md) — add integrated XLR connector.
 
 </div>

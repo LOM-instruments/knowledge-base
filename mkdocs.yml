@@ -91,11 +91,6 @@ nav:
       - manuals/geofon-overview.md
       - Geofón: manuals/geofon.md
       - Geofón DIY kit: manuals/geofon-diy-kit.md
-  - Discontinued:
-      - manuals/discontinued.md
-      - Elektrosluch 3 / 3+: manuals/elektrosluch-3.md
-      - Elektroucho Pro: manuals/elektroucho-pro.md
-      - Priezor: manuals/priezor.md
   - Build guides:
       - guides/index.md
       - Geofón DIY Kit: guides/geofon-diy.md
@@ -130,6 +125,11 @@ nav:
       - Ordering: faq/ordering.md
       - Shipping: faq/shipping.md
       - Troubleshooting: faq/troubleshooting.md
+  - Discontinued:
+      - manuals/discontinued.md
+      - Elektrosluch 3 / 3+: manuals/elektrosluch-3.md
+      - Elektroucho Pro: manuals/elektroucho-pro.md
+      - Priezor: manuals/priezor.md
 
 extra:
   social:

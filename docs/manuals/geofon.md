@@ -7,7 +7,7 @@ hide:
 
 <div class="pd">
   <div class="pd-gallery">
-    <img src="../../images/geofon.jpg" alt="Geofón">
+    <img src="../../images/geofon_1-2.jpg" alt="Geofón">
   </div>
   <div class="pd-info">
     <h1>Geofón</h1>

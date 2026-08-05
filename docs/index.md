@@ -37,6 +37,10 @@ hide:
 <div class="cell-photo"><img src="images/geofon_diy_kit.jpg" alt=""></div>
 <div class="cell-meta"><span class="name">Geofón DIY Kit</span><span class="right">Build guide</span></div>
 </a>
+<a class="cell no-rb" href="guides/geofon-damping-mod/">
+<div class="cell-photo"><img src="images/geofon_1-2.jpg" alt=""></div>
+<div class="cell-meta"><span class="name">Geofón Damping Compensation</span><span class="right">Build guide</span></div>
+</a>
 <a class="cell no-rb" href="guides/elektrosluch-mini-city-v2/">
 <div class="cell-photo"><img src="images/esluch_mini_city.jpg" alt=""></div>
 <div class="cell-meta"><span class="name">Elektrosluch Mini City v2</span><span class="right">Build guide</span></div>
@@ -45,8 +49,5 @@ hide:
 <div class="cell-photo"><img src="images/elektrosluch-mini.jpg" alt=""></div>
 <div class="cell-meta"><span class="name">Elektrosluch Mini</span><span class="right">Build guide</span></div>
 </a>
-<a class="cell no-rb" href="guides/geofon-damping-mod/">
-<div class="cell-photo"><img src="images/geofon.jpg" alt=""></div>
-<div class="cell-meta"><span class="name">Geofón Damping Compensation</span><span class="right">Build guide</span></div>
-</a>
+
 </div>
