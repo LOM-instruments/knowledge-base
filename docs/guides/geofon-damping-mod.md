@@ -15,7 +15,7 @@ This mod is **optional and fully reversible**. Its only job is to flatten the lo
 **Quick gut-check** (you don't need to know your element version yet):
 
 * Recorder mic input impedance **around 2 kΩ** — most Zoom handhelds (H4n, H6), Zoom F8/F8n, Tascam FR-AV2 and Portacapture X8 — means you're **at or near the design target** and essentially flat already. You can skip the mod.
-* Recorder **well above ~4 kΩ** — Sound Devices MixPre / 7-series (~4 kΩ), Sonosax SX-R4+ (~5 kΩ), or a high-impedance interface — means the element is under-damped and you're a **good candidate**.
+* Recorder **well above ~4 kΩ** — Sound Devices MixPre series (~4 kΩ), Sound Devices 7** series (~7.5 kΩ) or a high-impedance interface — means the element is under-damped and you're a **good candidate**.
 * **In between (~3–4 kΩ)** — e.g. Zoom F3, F6, F8n Pro (spec'd "3 kΩ or more") — depends on which element you have. Identify it in Step 2, then use the thresholds below.
 
 You'd also lean toward the mod if you record impulsive content and hear low-frequency ringing, or you run multiple Geofóns in stereo and want them to match.
