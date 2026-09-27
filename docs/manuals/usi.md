@@ -70,6 +70,7 @@ hide:
 | Output connector | 3.5 mm jack |
 | Output type | Unbalanced |
 | Dimensions | 26.2 mm × ⌀13 mm |
+| Weight | 68 g (2 × 8 g capsules + 52 g cable) |
 | Cable length | 1.5 m per microphone |
 | Cable diameter | 2.5 mm |
 | Operating temperature | −10 °C to +55 °C |
@@ -189,7 +190,7 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 <img src="../../images/usi_clip.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši clip</div>
-<div class="accessory-desc">Standard clip for attaching Uši to clothing, straps, and stands</div>
+<div class="accessory-desc">Standard clip for attaching Uši to clothing, straps, and stands · 5 g</div>
 <div class="accessory-links"><span class="buy">Buy</span></div>
 </div>
 </a>
@@ -213,7 +214,7 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 <img src="../../images/usi_mount.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši mount</div>
-<div class="accessory-desc">Microphone mount with vibration-dampening lyre</div>
+<div class="accessory-desc">Microphone mount with vibration-dampening lyre · 19 g</div>
 <div class="accessory-links"><span class="buy">Buy</span></div>
 </div>
 </a>
@@ -221,7 +222,7 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 <img src="../../images/usi_magnetic_clip.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši magnetic clip</div>
-<div class="accessory-desc">Magnetic attachment for ferrous surfaces</div>
+<div class="accessory-desc">Magnetic attachment for ferrous surfaces · 7 g</div>
 <div class="accessory-links"><span class="buy">Buy</span></div>
 </div>
 </a>
@@ -229,7 +230,7 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 <img src="../../images/usi_phantom_adapter.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši phantom adapter</div>
-<div class="accessory-desc">Converter for phantom power operation</div>
+<div class="accessory-desc">Converter for phantom power operation · 75 g</div>
 <div class="accessory-links"><span class="buy">Buy</span></div>
 </div>
 </a>
@@ -237,7 +238,7 @@ Uši shines in quiet field recording on lightweight rigs: nature ambiences (the 
 <img src="../../images/usi_expander.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši expander</div>
-<div class="accessory-desc">Expands the Uši body to basicUcho size for use with basicUcho accessories</div>
+<div class="accessory-desc">Expands the Uši body to basicUcho size for use with basicUcho accessories · 13 g</div>
 <div class="accessory-links"><span class="buy">Buy</span></div>
 </div>
 </a>

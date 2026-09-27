@@ -69,6 +69,7 @@ Matched stereo pair of phantom-powered, high-quality omnidirectional electret mi
 | Output connector | XLR-3M |
 | Output type | Balanced transformer-less floating |
 | Dimensions | 26.2 mm × ⌀13 mm |
+| Weight | 126 g (2 × 8 g capsules + 110 g cable) |
 | Cable length | 1.5 m per microphone |
 | Cable diameter | 2.5 mm |
 | Operating temperature | −10 °C to +55 °C |
@@ -208,7 +209,7 @@ Uši Pro is at home wherever quiet sources meet professional gear: nature ambien
 <img src="../../images/usi_mount.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši mount</div>
-<div class="accessory-desc">Microphone mount with vibration-dampening lyre</div>
+<div class="accessory-desc">Microphone mount with vibration-dampening lyre · 19 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/usi-microphone-mount-single">Buy</a> <span class="sep">·</span> <a class="ref" href="../../research/usi-clips/">Details</a></div>
 </div>
 </div>
@@ -216,7 +217,7 @@ Uši Pro is at home wherever quiet sources meet professional gear: nature ambien
 <img src="../../images/usi_magnetic_clip.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši magnetic clip</div>
-<div class="accessory-desc">Magnetic attachment for ferrous surfaces</div>
+<div class="accessory-desc">Magnetic attachment for ferrous surfaces · 7 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/magnetic-usi-clip">Buy</a> <span class="sep">·</span> <a class="ref" href="../../research/usi-clips/">Details</a></div>
 </div>
 </div>
@@ -224,7 +225,7 @@ Uši Pro is at home wherever quiet sources meet professional gear: nature ambien
 <img src="../../images/usi_expander.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši expander</div>
-<div class="accessory-desc">Expands the Uši body to basicUcho size for use with basicUcho accessories</div>
+<div class="accessory-desc">Expands the Uši body to basicUcho size for use with basicUcho accessories · 13 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/usi-expander-single">Buy</a></div>
 </div>
 </div>

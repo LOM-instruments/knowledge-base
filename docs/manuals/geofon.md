@@ -66,7 +66,7 @@ Sensitive geophone adjusted for field recording purposes. Originally designed fo
 | Usable frequency range | 20 Hz – 1 kHz (12 dB/oct rolloff below 20 Hz; diminishing fidelity above 400 Hz) |
 | Output | XLR-3M balanced gold-plated Neutrik |
 | Dimensions | 52.5 mm × ⌀36.5 mm |
-| Weight | 190 g (with cable and magnet) |
+| Weight | 192 g (with cable and magnet) |
 | Operating Temperature | -10 to +55°C |
 | Storage Temperature | -25 to +70°C |
 
@@ -190,7 +190,7 @@ Geofón hears the structural side of the world — not airborne sound, but the m
 <img src="../../images/geofon_suction_cup.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Geofón suction cup</div>
-<div class="accessory-desc">Suction cup mount for smooth surfaces</div>
+<div class="accessory-desc">Suction cup mount for smooth surfaces · 5 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/geofon-suction-cup">Buy</a></div>
 </div>
 </div>
@@ -198,7 +198,7 @@ Geofón hears the structural side of the world — not airborne sound, but the m
 <img src="../../images/geofon_extender_and_spike.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Geofón extender and spike</div>
-<div class="accessory-desc">Extension mount with spike for ground penetration</div>
+<div class="accessory-desc">Extension mount with spike for ground penetration · 24 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/geofon-extender-spike">Buy</a></div>
 </div>
 </div>
@@ -206,7 +206,7 @@ Geofón hears the structural side of the world — not airborne sound, but the m
 <img src="../../images/geofon_priezor_adapter.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Geofón / Priezor adapter</div>
-<div class="accessory-desc">Adapter for alternative connections</div>
+<div class="accessory-desc">Adapter for alternative connections · 44 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/xlr-3f-to-3-5mm-mini-jack-adapter">Buy</a></div>
 </div>
 </div>

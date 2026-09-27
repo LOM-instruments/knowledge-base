@@ -94,7 +94,7 @@ Mono passive electromagnetic sensor with professional XLR output. Use it as a re
 <img src="../../images/geofon_priezor_adapter.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Geofón / Priezor adapter</div>
-<div class="accessory-desc">Allows minijack connection to XLR sensor output</div>
+<div class="accessory-desc">Allows minijack connection to XLR sensor output · 44 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/xlr-3f-to-3-5mm-mini-jack-adapter">Buy</a></div>
 </div>
 </div>

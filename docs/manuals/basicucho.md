@@ -67,6 +67,7 @@ Phantom-powered, high-quality omnidirectional electret microphone with an indust
 | Output connector | XLR-3M |
 | Output type | Balanced transformer-less |
 | Dimensions | 80 mm × ⌀20.3 mm |
+| Weight | 35 g |
 | Operating temperature | −10 °C to +55 °C |
 | Storage temperature | −25 °C to +70 °C |
 
@@ -169,7 +170,7 @@ basicUcho is built for quiet sources and rough conditions: nature ambiences and 
 <img src="../../images/basicucho_mount.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">basicUcho mount</div>
-<div class="accessory-desc">Microphone clip and stand adapter for mounting</div>
+<div class="accessory-desc">Microphone clip and stand adapter for mounting · 45 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/basicucho-mount">Buy</a></div>
 </div>
 </div>

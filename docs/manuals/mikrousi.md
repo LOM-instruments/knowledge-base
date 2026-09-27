@@ -67,6 +67,7 @@ Matched stereo pair of miniature high-quality omnidirectional electret microphon
 | Output connector | 3.5 mm jack |
 | Output type | Unbalanced |
 | Dimensions | 8.5 mm × ⌀6.8 mm |
+| Weight | 28 g (pair) |
 | Cable length | 1.5 m per microphone |
 | Cable diameter | 2.1 mm |
 | Operating temperature | −10 °C to +55 °C |
@@ -197,7 +198,7 @@ mikroUši is the choice when the microphone must disappear: covert and discreet 
 <img src="../../images/usi_phantom_adapter.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši phantom adapter</div>
-<div class="accessory-desc">Converter for phantom power operation</div>
+<div class="accessory-desc">Converter for phantom power operation · 75 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/usi-phantom-adapter">Buy</a></div>
 </div>
 </div>

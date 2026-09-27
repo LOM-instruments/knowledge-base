@@ -61,6 +61,7 @@ A pair of passive electromagnetic sensors for extended electromagnetic listening
 | Power Required | None |
 | Output | 3.5 mm stereo minijack |
 | Configuration | Stereo pair |
+| Weight | 37 g (incl. cable) |
 | Operating Temperature | -10 to +55°C |
 | Storage Temperature | -25 to +70°C |
 
@@ -146,7 +147,7 @@ Elektrouši listen to the inaudible electromagnetic side of the world: electroni
 <img src="../../images/usi_mount.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši mount (single)</div>
-<div class="accessory-desc">Lyre shock-mount — the only mount safe for the Elektrouši plastic case</div>
+<div class="accessory-desc">Lyre shock-mount — the only mount safe for the Elektrouši plastic case · 19 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/usi-microphone-mount-single">Buy</a></div>
 </div>
 </div>

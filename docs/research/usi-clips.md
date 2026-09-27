@@ -42,7 +42,7 @@ Open-source, 3D-printable clips, mounts, and adapters for LOM microphones. Print
 <img src="../../images/usi_expander_small.jpeg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">Uši expander</div>
-<div class="accessory-desc">Expands a Uši microphone to basicUcho diameter, making it compatible with basicUcho accessories.</div>
+<div class="accessory-desc">Expands a Uši microphone to basicUcho diameter, making it compatible with basicUcho accessories · 13 g</div>
 <div class="accessory-links"><a class="buy" href="https://github.com/LOM-instruments/Usi-accesories">Download STL</a> <span class="sep">·</span> <a class="ref" href="https://store.lom.audio/products/usi-expander-single">Buy</a></div>
 </div>
 </div>

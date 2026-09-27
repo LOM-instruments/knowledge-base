@@ -67,6 +67,7 @@ Single phantom-powered miniature omnidirectional electret microphone with profes
 | Output connector | XLR-3M |
 | Output type | Balanced transformer-less floating |
 | Dimensions | 8.5 mm × ⌀6.8 mm |
+| Weight | 41 g |
 | Cable length | 1.5 m |
 | Cable diameter | 2.1 mm |
 | Operating temperature | −10 °C to +55 °C |
