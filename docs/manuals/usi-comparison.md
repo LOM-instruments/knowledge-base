@@ -24,6 +24,6 @@ All LOM microphones side by side. Scroll horizontally on narrow screens.
 | Output impedance | 30–50 Ω | 30–50 Ω | 2.4 kΩ | 30–50 Ω | 30–50 Ω | 1.6 kΩ | 30–50 Ω |
 | Power consumption | ~3 mA/pin/ch | ~3 mA/pin | ~700 µA/ch | ~3 mA/pin/ch | ~3 mA/pin | ~550 µA/ch | ~3 mA/pin |
 | Capsule dimensions | ⌀13 × 26.2 mm | ⌀13 × 26.2 mm | ⌀13 × 26.2 mm | ⌀6.8 × 8.5 mm | ⌀6.8 × 8.5 mm | ⌀6.8 × 8.5 mm | ⌀20 × 80 mm |
-| Weight | 126 g (pair, incl. cable) | 63 g (incl. cable) | 68 g (pair, incl. cable) | 82 g (pair) | 41 g | 28 g (pair) | 35 g |
+| Weight | 126 g (pair, incl. cable) | 63 g (incl. cable) | 68 g (pair, incl. cable) | 82 g (pair, incl. cable) | 41 g (incl. cable) | 28 g (pair, incl. cable) | 35 g |
 
 </div>

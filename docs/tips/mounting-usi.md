@@ -29,7 +29,7 @@ The [magnetic Uši clip](https://store.lom.audio/products/magnetic-usi-clip) let
 
 ![](../images/mikrousi_detail.jpg)
 
-[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-single) are designed to be used together with wind protection. Attached the microphone to the clip via provided groove.
+[mikroUši clips](https://store.lom.audio/products/mikrousi-clip-single) are designed to be used together with wind protection. Attach the microphone to the clip via the provided groove — see the [mikroUši clip](../manuals/mikrousi-clip.md) page.
 
 ### basicUcho mount
 

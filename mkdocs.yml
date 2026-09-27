@@ -91,6 +91,9 @@ nav:
       - manuals/geofon-overview.md
       - Geofón: manuals/geofon.md
       - Geofón DIY kit: manuals/geofon-diy-kit.md
+  - Accessories:
+      - mikroUši clip: manuals/mikrousi-clip.md
+      - mikroUši ultrasonic horn: manuals/mikrousi-ultrasonic-horn.md
   - Build guides:
       - guides/index.md
       - Geofón DIY Kit: guides/geofon-diy.md

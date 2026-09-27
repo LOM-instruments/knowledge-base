@@ -69,7 +69,7 @@ Matched stereo pair of phantom-powered miniature omnidirectional electret microp
 | Output connector | XLR-3M |
 | Output type | Balanced transformer-less floating |
 | Dimensions | 8.5 mm × ⌀6.8 mm |
-| Weight | 82 g (pair) |
+| Weight | 82 g (pair, incl. cable) |
 | Cable length | 1.5 m per microphone |
 | Cable diameter | 2.1 mm |
 | Operating temperature | −10 °C to +55 °C |
@@ -204,6 +204,22 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 <div class="accessory-title">mikroUši windbubbles</div>
 <div class="accessory-desc">Foam windscreens sized for 6.8 mm diameter</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/mikrousi-windbubbles">Buy</a></div>
+</div>
+</div>
+<div class="accessory-card">
+<img src="../../images/mikrousi_clip.jpg" alt="">
+<div class="accessory-body">
+<div class="accessory-title">mikroUši clip</div>
+<div class="accessory-desc">Clip for the current mikroUši series, works together with the windbubbles · 4 g</div>
+<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/mikrousi-clip-single">Buy</a> <span class="sep">·</span> <a class="ref" href="../mikrousi-clip/">Details</a></div>
+</div>
+</div>
+<div class="accessory-card">
+<img src="../../images/mikrousi_ultrasonic_horn.jpg" alt="">
+<div class="accessory-body">
+<div class="accessory-title">mikroUši ultrasonic horn</div>
+<div class="accessory-desc">Passive ~+15 dB acoustic boost from 1 kHz into the ultrasonic range · 6 g</div>
+<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/mikrousi-ultrasonic-horn">Buy</a> <span class="sep">·</span> <a class="ref" href="../mikrousi-ultrasonic-horn/">Details</a></div>
 </div>
 </div>
 </div>
