@@ -60,7 +60,8 @@ hide:
 |---|---|
 | Transduction principle | Pre-polarized condenser (electret) |
 | Directional characteristic | Omnidirectional |
-| Sensitivity (free field, 1 kHz) | −28 dB re 1 V/Pa (≈40 mV/Pa) at 1 kHz, ±3 dB (unit-to-unit) |
+| Sensitivity (free field, 1 kHz) | −28 dB re 1 V/Pa (≈40 mV/Pa) at 1 kHz, ±3 dB |
+| Channel matching (matched pair) | < 0.5 dB at 1 kHz |
 | Equivalent noise level (A-weighted) | ~14 dBA |
 | Maximum input SPL | ~122 dB |
 | Power supply | 2–10 V plug-in power |

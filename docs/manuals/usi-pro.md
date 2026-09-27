@@ -58,7 +58,7 @@ Matched stereo pair of phantom-powered, high-quality omnidirectional electret mi
 |---|---|
 | Transduction principle | Pre-polarized condenser (electret) |
 | Directional characteristic | Omnidirectional |
-| Sensitivity (free field, 1 kHz) | −18 dB re 1 V/Pa (≈126 mV/Pa) at 1 kHz, ±3 dB (unit-to-unit) |
+| Sensitivity (free field, 1 kHz) | −18 dB re 1 V/Pa (≈126 mV/Pa) at 1 kHz, ±3 dB |
 | Channel matching (matched pair) | < 0.5 dB at 1 kHz |
 | Equivalent noise level (A-weighted) | ~14 dBA |
 | Maximum input SPL | ~122 dB |

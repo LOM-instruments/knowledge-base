@@ -6,7 +6,7 @@ Questions about LOM microphones. For Elektrosluch, Elektrouši, Elektroucho Pro,
 
 ### What is the difference between basicUcho, mikroUši, and Uši series? { #difference-series }
 
-Uši (Pro) have higher sensitivity, lower self-noise, but a bigger size. mikroUši (Pro) are tiny and have better frequency response. basicUcho has the same (or slightly higher) sensitivity than Uši Pro, but a lower max SPL (110 dB SPL vs 122 dB SPL).
+Uši (Pro) have lower self-noise and handle louder sources, but are bigger. mikroUši (Pro) are tiny and have better frequency response. The plain Uši is also more sensitive than the plain mikroUši (−28 vs −32 dB); the Pro versions share the same active XLR cable and have the same −18 dB sensitivity. basicUcho is about 6 dB less sensitive than Uši Pro and has a lower max SPL (110 vs 122 dB SPL).
 
 For very quiet sources such as natural sounds, we recommend Uši Pro or basicUcho — they also offer more accessories. mikroUši come in handy when you need a discreet recording solution and don't mind the slightly higher noise floor.
 
@@ -20,7 +20,7 @@ See the full [comparison table](../manuals/usi-comparison.md).
 
 ### What is the difference between (mikro)Ucho Pro and (mikro)Uši Pro?
 
-Ucho Pro is a mono version of Uši Pro, and mikroUcho Pro is a mono version of mikroUši Pro. In other words, (mikro)Uši Pro is a sensitivity-matched pair of two (mikro)Ucho Pros.
+Ucho Pro is a mono version of Uši Pro, and mikroUcho Pro is a mono version of mikroUši Pro. In other words, (mikro)Uši Pro is a sensitivity-matched pair (within 0.5 dB) of two (mikro)Ucho Pros.
 
 See the full [comparison table](../manuals/usi-comparison.md).
 

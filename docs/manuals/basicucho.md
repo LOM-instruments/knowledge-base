@@ -57,7 +57,7 @@ Phantom-powered, high-quality omnidirectional electret microphone with an indust
 |---|---|
 | Transduction principle | Pre-polarized condenser (electret) |
 | Directional characteristic | Omnidirectional |
-| Sensitivity (free field, 1 kHz) | −24 dB re 1 V/Pa (≈63 mV/Pa) at 1 kHz, ±3 dB (unit-to-unit) |
+| Sensitivity (free field, 1 kHz) | −24 dB re 1 V/Pa (≈63 mV/Pa) at 1 kHz, ±3 dB |
 | Equivalent noise level (A-weighted) | ~14 dBA |
 | Maximum input SPL | ~110 dB |
 | Power supply | 24–48 V phantom (IEC 61938) |

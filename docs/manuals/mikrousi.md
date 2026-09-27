@@ -57,7 +57,8 @@ Matched stereo pair of miniature high-quality omnidirectional electret microphon
 |---|---|
 | Transduction principle | Pre-polarized condenser (electret) |
 | Directional characteristic | Omnidirectional |
-| Sensitivity (free field, 1 kHz) | −32 dB re 1 V/Pa (≈25 mV/Pa) at 1 kHz, ±3 dB (unit-to-unit) |
+| Sensitivity (free field, 1 kHz) | −32 dB re 1 V/Pa (≈25 mV/Pa) at 1 kHz, ±3 dB |
+| Channel matching (matched pair) | < 0.5 dB at 1 kHz |
 | Equivalent noise level (A-weighted) | ~20 dBA |
 | Maximum input SPL | ~115 dB |
 | Power supply | 2–10 V plug-in power |
