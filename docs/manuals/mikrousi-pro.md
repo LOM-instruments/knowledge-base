@@ -16,10 +16,10 @@ hide:
       <a class="btn" href="https://store.lom.audio/products/mikrousi-pro">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
-Matched stereo pair of phantom-powered miniature omnidirectional electret microphones with professional balanced XLR output. The ultra-compact 6.8 mm form factor is combined with active electronics for low-impedance balanced output, making these microphones ideal for professional field recorders and preamplifiers. The modular cable system provides flexibility for various recording environments.
+Matched stereo pair of phantom-powered miniature omnidirectional electret microphones with professional balanced XLR output. The ultra-compact 6.8 mm form factor is combined with active electronics for low-impedance balanced output, making these microphones ideal for professional field recorders and preamplifiers.
     </div>
     <div class="credits">
-      <div><span class="key">In the box:</span> 2× mikroUši Pro microphones, 1× Uši Pro (XLR) cable, 2× microphone clips</div>
+      <div><span class="key">In the box:</span> 2× mikroUši Pro microphones (matched pair, fixed cables), 2× mikroUši clips</div>
     </div>
   </div>
 </div>
@@ -40,7 +40,7 @@ Matched stereo pair of phantom-powered miniature omnidirectional electret microp
 - Balanced transformer-less XLR output
 - Low self-noise (~20 dBA)
 - Low output impedance (30–50 Ω)
-- Modular cable system
+- Fixed 1.5 m cables with XLR connectors — nothing to assemble or lose
 
 </div>
 
@@ -93,22 +93,17 @@ Matched stereo pair of phantom-powered miniature omnidirectional electret microp
 
 --8<-- "safety-microphones.md"
 
-!!! danger "Use only LOM cables"
-
-    Never use third-party mini-XLR cables with mikroUši Pro. The Uši Pro (XLR) cable contains circuitry that converts phantom power to the voltage the capsules expect — **connecting a plain cable while phantom power is on may permanently damage the microphones**, and such damage is not covered by the warranty.
-
 **Will it work with my recorder?**
 
-mikroUši Pro needs two XLR microphone inputs with **phantom power** (24–48 V, IEC 61938). Any recorder or preamp with standard 48 V phantom works; if yours has a 24 V mode, it saves battery with identical performance. Each microphone draws ~3 mA. If you only have a 3.5 mm plug-in-power recorder, the capsules also work with the [Uši (minijack) cable](https://store.lom.audio/products/usi-cable).
+mikroUši Pro needs two XLR microphone inputs with **phantom power** (24–48 V, IEC 61938). Any recorder or preamp with standard 48 V phantom works; if yours has a 24 V mode, it saves battery with identical performance. Each microphone draws ~3 mA. If you only have a 3.5 mm plug-in-power recorder, choose [mikroUši](mikrousi.md), the minijack version, instead.
 
 **Quick start**
 
-1. Connect each microphone to the Uši Pro (XLR) cable — push the mini-XLR connector on until it clicks.
-2. Plug both XLR connectors into your recorder's mic inputs. **The connector with the red ring is the right channel** — keep it in the right input.
-3. Turn on **phantom power** (usually labeled 48 V) — on some recorders this is a switch, on others a menu setting. Check your recorder's manual.
-4. Position the microphones — for a natural stereo image, space the capsules roughly head-width apart (15–20 cm), or clip them to your shoulders or hat brim for a wearable, binaural-style rig.
-5. Put on headphones and set the gain: start low, then raise it until the loudest sounds you expect peak around −12 dB. Gently rub a finger near each capsule to confirm both channels are live.
-6. Make a short test recording and listen back before the real take.
+1. Plug both XLR connectors into your recorder's mic inputs. **The connector with the red ring is the right channel** — keep it in the right input.
+2. Turn on **phantom power** (usually labeled 48 V) — on some recorders this is a switch, on others a menu setting. Check your recorder's manual.
+3. Position the microphones — for a natural stereo image, space the capsules roughly head-width apart (15–20 cm), or clip them to your shoulders or hat brim for a wearable, binaural-style rig.
+4. Put on headphones and set the gain: start low, then raise it until the loudest sounds you expect peak around −12 dB. Gently rub a finger near each capsule to confirm both channels are live.
+5. Make a short test recording and listen back before the real take.
 
 **Using the included mikroUši clip**
 
@@ -118,13 +113,9 @@ The mikroUši clip is designed to be used together with wind protection: insert 
 
 For outdoor recording, slip a windbubble over each capsule to reduce wind noise. Match the size to the microphone — see [recommended wind protection](../faq/microphones.md#wind-protection).
 
-**Swapping cables**
+**About the cables**
 
-The system is fully modular: mikroUši Pro capsules also work with the Uši (minijack) cable for plug-in-power recorders. Use only LOM cables (see the safety notes above).
-
-**Disconnecting the capsules from the cable**
-
-Press the button on the mini-XLR connector and pull the capsule straight off. If you can't get the connector off, try [this](../faq/troubleshooting.md#i-cant-disconnect-the-cable-from-my-usi-microphones).
+Unlike Uši Pro, mikroUši Pro are not modular: each cable, with its XLR connector, is permanently attached to the capsule and cannot be disconnected. For plug-in-power minijack recorders, see [mikroUši](mikrousi.md).
 
 </div>
 
@@ -169,11 +160,10 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 <div class="prose-block" markdown>
 
 - **No sound, or a very quiet signal** → is phantom power actually on, and on the right inputs? See [no signal](../faq/troubleshooting.md#mic-no-signal).
-- **Only one channel records** → check both mini-XLR connectors are clicked in and the recorder isn't set to mono. See [one channel silent](../faq/troubleshooting.md#mic-one-channel).
+- **Only one channel records** → check both XLR plugs are fully seated, phantom power is on for both inputs, and the recorder isn't set to mono. See [one channel silent](../faq/troubleshooting.md#mic-one-channel).
 - **Crackling or popping** → most often condensation after a temperature change. See [crackling and popping](../faq/troubleshooting.md#mic-crackling).
 - **Distortion on loud sources** → lower the gain; above ~115 dB SPL the capsule itself overloads. See [distortion](../faq/troubleshooting.md#mic-distortion).
 - **Hum or buzz** → almost always a cable or powering issue. See [hum and buzz](../faq/troubleshooting.md#mic-hum).
-- **The cable won't come off** → don't force it — see [the technique](../faq/troubleshooting.md#i-cant-disconnect-the-cable-from-my-usi-microphones).
 
 </div>
 
@@ -182,22 +172,6 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 </div>
 
 <div class="accessory-grid">
-<div class="accessory-card">
-<img src="../../images/usi_mini-jack_cable.jpg" alt="">
-<div class="accessory-body">
-<div class="accessory-title">Uši (minijack) cable</div>
-<div class="accessory-desc">Modular minijack output cable for standard Uši</div>
-<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/usi-cable">Buy</a></div>
-</div>
-</div>
-<div class="accessory-card">
-<img src="../../images/usi_pro_xlr_cable.jpg" alt="">
-<div class="accessory-body">
-<div class="accessory-title">Uši Pro (XLR) cable</div>
-<div class="accessory-desc">Modular balanced XLR output cable (1.5 m)</div>
-<div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/usi-pro-cable">Buy</a></div>
-</div>
-</div>
 <div class="accessory-card">
 <img src="../../images/mikrousi_windbubbles.jpg" alt="">
 <div class="accessory-body">
@@ -264,8 +238,6 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 
 - [How do I choose between basicUcho, mikroUši, and Uši?](../faq/microphones.md#difference-series)
 - [What wind protection do you recommend?](../faq/microphones.md#wind-protection)
-- [Can I use my own mini-XLR cables?](../faq/microphones.md#own-cables)
-- [I can't disconnect the cable from my mic](../faq/troubleshooting.md#i-cant-disconnect-the-cable-from-my-usi-microphones)
 - [See all microphone FAQs →](../faq/microphones.md)
 
 </div>

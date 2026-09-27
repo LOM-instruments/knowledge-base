@@ -16,6 +16,7 @@ All LOM microphones side by side. Scroll horizontally on narrow screens.
 | Configuration | Matched pair · XLR | Mono · XLR | Matched pair · TRS | Matched pair · XLR | Mono · XLR | Matched pair · TRS | Mono · XLR |
 | Operating voltage | 24–48 V phantom | 24–48 V phantom | 2–10 V plug-in | 24–48 V phantom | 24–48 V phantom | 2–10 V plug-in | 24–48 V phantom |
 | Cable | 2× 1.5 m (⌀2.5 mm) | 1.5 m (⌀2.5 mm) | 1.5 m (⌀2.5 mm) | 2× 1.5 m (⌀2.1 mm) | 1.5 m (⌀2.1 mm) | 2× 1.5 m (⌀2.1 mm) | — |
+| Cable system | Modular (mini-XLR) | Modular (mini-XLR) | Modular (mini-XLR) | Fixed | Fixed | Fixed | — |
 | Max input SPL | ~122 dB | ~122 dB | ~122 dB | ~115 dB | ~115 dB | ~115 dB | ~110 dB |
 | Sensitivity | −18 dB re 1 V/Pa (≈126 mV/Pa) at 1 kHz, ±3 dB | −18 dB re 1 V/Pa (≈126 mV/Pa) at 1 kHz, ±3 dB | −28 dB re 1 V/Pa (≈40 mV/Pa) at 1 kHz, ±3 dB | −18 dB re 1 V/Pa (≈126 mV/Pa) at 1 kHz, ±3 dB | −18 dB re 1 V/Pa (≈126 mV/Pa) at 1 kHz, ±3 dB | −32 dB re 1 V/Pa (≈25 mV/Pa) at 1 kHz, ±3 dB | −24 dB re 1 V/Pa (≈63 mV/Pa) at 1 kHz, ±3 dB |
 | Channel matching | < 0.5 dB at 1 kHz | — | < 0.5 dB at 1 kHz | < 0.5 dB at 1 kHz | — | < 0.5 dB at 1 kHz | — |

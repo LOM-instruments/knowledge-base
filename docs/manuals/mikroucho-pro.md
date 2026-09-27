@@ -19,7 +19,7 @@ hide:
 Single phantom-powered miniature omnidirectional electret microphone with professional balanced XLR output. The mikroUcho Pro uses the same ultra-compact 6.8 mm capsule and active electronics as the mikroUši Pro stereo pair, sold individually for mono recording applications or as a replacement and expansion unit. Ideal for specialized recording setups requiring maximum concealment with professional audio quality.
     </div>
     <div class="credits">
-      <div><span class="key">In the box:</span> 1× mikroUcho Pro microphone, 1× active XLR-miniXLR cable (1.5 m), 1× microphone clip</div>
+      <div><span class="key">In the box:</span> 1× mikroUcho Pro microphone (fixed cable), 1× mikroUši clip</div>
     </div>
   </div>
 </div>
@@ -91,17 +91,13 @@ Single phantom-powered miniature omnidirectional electret microphone with profes
 
 --8<-- "safety-microphones.md"
 
-!!! danger "Use only LOM cables"
-
-    Never use third-party mini-XLR cables with mikroUcho Pro. The included cable contains circuitry that converts phantom power to the voltage the capsule expects — **connecting a plain cable while phantom power is on may permanently damage the microphone**, and such damage is not covered by the warranty.
-
 **Will it work with my recorder?**
 
 mikroUcho Pro needs one XLR microphone input with **phantom power** (24–48 V, IEC 61938). Any recorder or preamp with standard 48 V phantom works; if yours has a 24 V mode, it saves battery with identical performance. The microphone draws ~3 mA.
 
 **Quick start**
 
-1. Connect the microphone to the cable — push the mini-XLR connector on until it clicks — and plug the XLR end into your recorder's mic input.
+1. Plug the XLR connector into your recorder's mic input.
 2. Turn on **phantom power** (usually labeled 48 V) — on some recorders this is a switch, on others a menu setting. Check your recorder's manual.
 3. Put on headphones and set the gain: start low, then raise it until the loudest sounds you expect peak around −12 dB. Gently rub a finger near the capsule to confirm it's live.
 4. Make a short test recording and listen back before the real take.
@@ -114,13 +110,13 @@ The mikroUši clip is designed to be used together with wind protection: insert 
 
 For outdoor recording, slip a windbubble over the capsule to reduce wind noise. Match the size to the microphone — see [recommended wind protection](../faq/microphones.md#wind-protection).
 
-**Disconnecting the capsule from the cable**
+**About the cable**
 
-Press the button on the mini-XLR connector and pull the capsule straight off. If you can't get the connector off, try [this](../faq/troubleshooting.md#i-cant-disconnect-the-cable-from-my-usi-microphones).
+mikroUcho Pro is not modular: the cable, with its XLR connector, is permanently attached to the capsule and cannot be disconnected.
 
 **Expanding to a stereo pair**
 
-A second mikroUcho Pro makes an (unmatched) stereo pair; for sensitivity-matched stereo, see [mikroUši Pro](mikrousi-pro.md). The capsule also works with the Uši (minijack) cable — use only LOM cables (see the safety notes above).
+A second mikroUcho Pro makes an (unmatched) stereo pair; for sensitivity-matched stereo, see [mikroUši Pro](mikrousi-pro.md).
 
 </div>
 
@@ -168,7 +164,6 @@ mikroUcho Pro is the mono workhorse for placements where the microphone must van
 - **Crackling or popping** → most often condensation after a temperature change. See [crackling and popping](../faq/troubleshooting.md#mic-crackling).
 - **Distortion on loud sources** → lower the gain; above ~115 dB SPL the capsule itself overloads. See [distortion](../faq/troubleshooting.md#mic-distortion).
 - **Hum or buzz** → almost always a cable or powering issue. See [hum and buzz](../faq/troubleshooting.md#mic-hum).
-- **The cable won't come off** → don't force it — see [the technique](../faq/troubleshooting.md#i-cant-disconnect-the-cable-from-my-usi-microphones).
 
 </div>
 
@@ -241,8 +236,6 @@ mikroUcho Pro is the mono workhorse for placements where the microphone must van
 
 - [How do I choose between basicUcho, mikroUši, and Uši?](../faq/microphones.md#difference-series)
 - [What wind protection do you recommend?](../faq/microphones.md#wind-protection)
-- [Can I use my own mini-XLR cables?](../faq/microphones.md#own-cables)
-- [I can't disconnect the cable from my mic](../faq/troubleshooting.md#i-cant-disconnect-the-cable-from-my-usi-microphones)
 - [See all microphone FAQs →](../faq/microphones.md)
 
 </div>
