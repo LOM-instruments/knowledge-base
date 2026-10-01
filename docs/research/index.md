@@ -24,6 +24,7 @@ Field-recording technique, DIY projects, open-source designs, and experiments fr
 
 - [Mounting Uši](../tips/mounting-usi.md) — clips, mounts, and techniques for placing a stereo pair.
 - [Recording ultrasound](../tips/recording-ultrasound.md) — capture and slow down ultrasonic sounds.	
+- [Geofón applied](../tips/geofon-applied.md) — how field recordists, musicians and sound designers use the Geofón, with recordings.
 - [Field Recording in South-East Asia](field-recording-south-east-asia.md) — Greg Simmons on building a rig for tropical climates.
 - [Equipment](../tips/equipment.md) — recommended recorders, cables, and accessories.
 - [Listening exercises](../tips/listening-exercises.md) — practical drills for field listening.
