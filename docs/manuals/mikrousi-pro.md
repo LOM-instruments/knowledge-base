@@ -68,7 +68,7 @@ Matched stereo pair of phantom-powered miniature omnidirectional electret microp
 | Minimum load impedance | 1 kΩ |
 | Output connector | XLR-3M |
 | Output type | Balanced transformer-less floating |
-| Dimensions | 8.5 mm × ⌀6.8 mm |
+| Dimensions | 24 mm × ⌀6.8 mm |
 | Weight | 82 g (pair, incl. cable) |
 | Cable length | 1.5 m per microphone |
 | Cable diameter | 2.1 mm |

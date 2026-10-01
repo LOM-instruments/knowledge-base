@@ -66,7 +66,7 @@ Matched stereo pair of miniature high-quality omnidirectional electret microphon
 | Minimum load impedance | 16 kΩ |
 | Output connector | 3.5 mm jack |
 | Output type | Unbalanced |
-| Dimensions | 8.5 mm × ⌀6.8 mm |
+| Dimensions | 24 mm × ⌀6.8 mm |
 | Weight | 28 g (pair, incl. cable) |
 | Cable length | 1.5 m per microphone |
 | Cable diameter | 2.1 mm |
