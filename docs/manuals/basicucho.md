@@ -16,7 +16,7 @@ hide:
       <a class="btn" href="https://store.lom.audio/products/basicucho">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
-Phantom-powered, high-quality omnidirectional electret microphone with an industry-standard XLR connector. Designed for field recording, sound art, and acoustic research, the basicUcho delivers exceptionally low self-noise and high sensitivity through its large ⌀20.3 mm capsule. Its rugged construction makes it ideal for capturing delicate sounds in demanding environments.
+Phantom-powered, high-quality omnidirectional electret microphone with an industry-standard XLR connector. Designed for field recording, sound art, and acoustic research, the basicUcho delivers exceptionally low self-noise and high sensitivity through its ⌀9.7 mm electret capsule, housed in a ⌀20.3 mm body. Its rugged construction makes it ideal for capturing delicate sounds in demanding environments.
     </div>
     <div class="credits">
       <div><span class="key">In the box:</span> 1× basicUcho microphone <em>(XLR cable not included)</em></div>
@@ -34,7 +34,7 @@ Phantom-powered, high-quality omnidirectional electret microphone with an indust
 
 <div class="prose-block" markdown>
 
-- Large ⌀20.3 mm capsule for low self-noise and high sensitivity
+- ⌀9.7 mm electret capsule in a rugged ⌀20.3 mm body — low self-noise and high sensitivity
 - Exceptionally low self-noise (~14 dBA)
 - Phantom powered (24–48 V)
 - Industry-standard XLR-3M balanced transformer-less output
@@ -66,7 +66,8 @@ Phantom-powered, high-quality omnidirectional electret microphone with an indust
 | Minimum load impedance | 1 kΩ |
 | Output connector | XLR-3M |
 | Output type | Balanced transformer-less |
-| Dimensions | 80 mm × ⌀20.3 mm |
+| Capsule | ⌀9.7 mm |
+| Dimensions (body) | 80 mm × ⌀20.3 mm |
 | Weight | 35 g |
 | Operating temperature | −10 °C to +55 °C |
 | Storage temperature | −25 °C to +70 °C |
@@ -134,7 +135,7 @@ For outdoor recording, fit the basicUcho windkiller over the capsule to reduce w
 
 <div class="prose-block" markdown>
 
-basicUcho is built for quiet sources and rough conditions: nature ambiences and bioacoustics (the large capsule keeps self-noise at ~14 dBA), acoustic research, sound art, and long unattended recording sessions where its rugged body earns its keep. The capsule responds beyond the audible range (up to ~60 kHz) for [ultrasound work](../tips/recording-ultrasound.md). It trades maximum level for sensitivity — sources above ~110 dB SPL (loud concerts, close machinery) may distort; for those, reach for the [Uši series](usi-comparison.md) instead.
+basicUcho is built for quiet sources and rough conditions: nature ambiences and bioacoustics (self-noise of only ~14 dBA), acoustic research, sound art, and long unattended recording sessions where its rugged body earns its keep. The capsule responds beyond the audible range (up to ~60 kHz) for [ultrasound work](../tips/recording-ultrasound.md). It trades maximum level for sensitivity — sources above ~110 dB SPL (loud concerts, close machinery) may distort; for those, reach for the [Uši series](usi-comparison.md) instead.
 
 </div>
 
