@@ -88,7 +88,7 @@ hide:
 
 <div class="prose-block" markdown>
 
-![Uši frequency response](../images/usi-frequency-response.png)
+<div class="chart"><img src="../../images/usi-frequency-response.png" alt="Uši frequency response" loading="lazy"></div>
 
 *1/1-octave smoothing, normalised to 0 dB at 1 kHz. Uši, Uši Pro and Ucho Pro use the same capsule, so this curve applies to all three.*
 

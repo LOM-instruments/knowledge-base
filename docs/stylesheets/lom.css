@@ -1246,3 +1246,8 @@ body[data-md-page="home"] .md-content,
   .split-row { grid-template-columns: 1fr; }
   .split-row > .split-cell { border-right: none; border-bottom: 1px solid var(--hairline); }
 }
+
+/* ── Full-width charts (frequency response) ──────────────────────── */
+
+.md-typeset .chart { margin: 0 0 12px; }
+.md-typeset .chart img { display: block; width: 100%; max-width: none; }

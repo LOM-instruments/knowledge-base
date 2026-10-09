@@ -31,6 +31,6 @@ All LOM microphones side by side. Scroll horizontally on narrow screens.
 
 ## Frequency response
 
-![Frequency response of Uši Pro, mikroUši Pro and basicUcho](../images/microphones-frequency-response.png)
+<div class="chart"><img src="../../images/microphones-frequency-response.png" alt="Frequency response of Uši Pro, mikroUši Pro and basicUcho" loading="lazy"></div>
 
 *1/1-octave smoothing, normalised to 0 dB at 1 kHz. Uši, Uši Pro and Ucho Pro share one curve; mikroUši, mikroUši Pro and mikroUcho Pro share another.*

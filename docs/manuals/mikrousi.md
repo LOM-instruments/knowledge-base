@@ -85,7 +85,7 @@ Matched stereo pair of miniature high-quality omnidirectional electret microphon
 
 <div class="prose-block" markdown>
 
-![mikroUši frequency response](../images/mikrousi-frequency-response.png)
+<div class="chart"><img src="../../images/mikrousi-frequency-response.png" alt="mikroUši frequency response" loading="lazy"></div>
 
 *1/1-octave smoothing, normalised to 0 dB at 1 kHz. mikroUši, mikroUši Pro and mikroUcho Pro use the same capsule, so this curve applies to all three.*
 

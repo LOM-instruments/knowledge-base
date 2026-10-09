@@ -87,7 +87,7 @@ Matched stereo pair of phantom-powered, high-quality omnidirectional electret mi
 
 <div class="prose-block" markdown>
 
-![Uši Pro frequency response](../images/usi-frequency-response.png)
+<div class="chart"><img src="../../images/usi-frequency-response.png" alt="Uši Pro frequency response" loading="lazy"></div>
 
 *1/1-octave smoothing, normalised to 0 dB at 1 kHz. Uši, Uši Pro and Ucho Pro use the same capsule, so this curve applies to all three.*
 
