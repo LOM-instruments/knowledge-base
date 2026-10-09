@@ -78,6 +78,18 @@ Phantom-powered, high-quality omnidirectional electret microphone with an indust
 
 </div>
 
+<div class="banner">
+<h2>Frequency response</h2>
+</div>
+
+<div class="prose-block" markdown>
+
+![basicUcho frequency response](../images/basicucho-frequency-response.png)
+
+*1/1-octave smoothing, normalised to 0 dB at 1 kHz.*
+
+</div>
+
 <div class="split-row" markdown>
 
 <div class="split-cell" markdown>

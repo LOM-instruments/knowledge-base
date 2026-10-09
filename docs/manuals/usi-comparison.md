@@ -28,3 +28,9 @@ All LOM microphones side by side. Scroll horizontally on narrow screens.
 | Weight | 126 g (pair, incl. cable) | 63 g (incl. cable) | 68 g (pair, incl. cable) | 82 g (pair, incl. cable) | 41 g (incl. cable) | 28 g (pair, incl. cable) | 35 g |
 
 </div>
+
+## Frequency response
+
+![Frequency response of Uši Pro, mikroUši Pro and basicUcho](../images/microphones-frequency-response.png)
+
+*1/1-octave smoothing, normalised to 0 dB at 1 kHz. Uši, Uši Pro and Ucho Pro share one curve; mikroUši, mikroUši Pro and mikroUcho Pro share another.*

@@ -79,6 +79,18 @@ Single phantom-powered miniature omnidirectional electret microphone with profes
 
 </div>
 
+<div class="banner">
+<h2>Frequency response</h2>
+</div>
+
+<div class="prose-block" markdown>
+
+![mikroUcho Pro frequency response](../images/mikrousi-frequency-response.png)
+
+*1/1-octave smoothing, normalised to 0 dB at 1 kHz. mikroUši, mikroUši Pro and mikroUcho Pro use the same capsule, so this curve applies to all three.*
+
+</div>
+
 <div class="split-row" markdown>
 
 <div class="split-cell" markdown>
