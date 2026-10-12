@@ -7,7 +7,7 @@ To get started, you'll need a recorder capable of recording at a sample rate of 
 
 Secondly, you'll require microphones capable of capturing ultrasonic content. LOM Uši, mikroUši, and basicUcho series microphones are suitable for recording ultrasonic sounds. In terms of performance (signal-to-noise ratio at higher frequencies), mikroUši series is the best, followed by Uši, and basicUcho series performs the least. However, all of them can capture common bat sounds without any issues.
 
-If you need more signal from faint or distant sources, the [mikroUši ultrasonic horn](../manuals/mikrousi-ultrasonic-horn.md) adds around +15 dB of passive acoustic gain to a mikroUši series microphone from 1 kHz upward — at the cost of a strongly coloured, non-natural frequency response.
+If you need more signal from faint or distant sources, the [mikroUši ultrasonic horn](../manuals/mikrousi-ultrasonic-horn.md) adds up to +18 dB of passive acoustic gain to a mikroUši series microphone in the high frequencies — at the cost of a strongly coloured, non-natural frequency response.
 
 For your first subject, you can use a very basic ultrasonic generator – keys. By shaking a set of keys, you can generate bursts of ultrasound reaching almost 80 kilohertz! However, don't let the audible part of the sound fool you; there's a lot of content you simply can't hear.
 

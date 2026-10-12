@@ -11,12 +11,12 @@ hide:
   </div>
   <div class="pd-info">
     <h1>mikroUši ultrasonic horn</h1>
-    <div class="tagline">Passive acoustic horn · ~+15 dB from 1 kHz into the ultrasonic range · fits the Uši mount</div>
+    <div class="tagline">Passive acoustic horn · up to +18 dB in the high frequencies · fits the Uši mount</div>
     <div class="actions">
       <a class="btn" href="https://store.lom.audio/products/mikrousi-ultrasonic-horn">Buy at store.lom.audio ↗</a>
     </div>
     <div class="body">
-Ultrasonic amplification horn for the current version of the mikroUši series microphones. It provides around +15 dB of passive acoustic boost from 1 kHz up to the ultrasonic range (50+ kHz), which makes it especially useful for recording birds, insects and bats for research purposes. Be aware that the horn severely alters the frequency response of the microphone — recordings will not sound "natural".
+Ultrasonic amplification horn for the current version of the mikroUši series microphones. It provides up to +18 dB of passive acoustic gain in the high frequencies and into the ultrasonic range (see the chart below), which makes it especially useful for recording birds, insects and bats for research purposes. Be aware that the horn severely alters the frequency response of the microphone — recordings will not sound "natural".
     </div>
     <div class="credits">
       <div><span class="key">In the box:</span> 1× mikroUši ultrasonic horn (microphone and Uši mount not included)</div>
@@ -34,7 +34,7 @@ Ultrasonic amplification horn for the current version of the mikroUši series mi
 
 <div class="prose-block" markdown>
 
-- Around +15 dB of passive acoustic gain from 1 kHz into the ultrasonic range (50+ kHz)
+- Up to +18 dB of passive acoustic gain in the high frequencies and into the ultrasonic range
 - No power, no electronics — pure acoustics
 - Made for birds, insects and bats
 - Outer diameter fits the Uši mount for stand mounting
@@ -55,7 +55,7 @@ Ultrasonic amplification horn for the current version of the mikroUši series mi
 | Parameter | Value |
 |---|---|
 | Compatible microphones | mikroUši, mikroUši Pro, mikroUcho Pro (current version) |
-| Acoustic gain | ~+15 dB, 1 kHz to 50+ kHz (passive) |
+| Acoustic gain | Up to +18 dB in the high frequencies (passive) — see the chart below |
 | Mounting | Outer diameter fits the [Uši mount](https://store.lom.audio/products/usi-microphone-mount-single) |
 | Weight | 6 g |
 | Sold as | Single (one per microphone) |
@@ -87,7 +87,7 @@ Ultrasonic amplification horn for the current version of the mikroUši series mi
 
 1. Slide the horn over the microphone capsule until it seats. No tools are needed.
 2. Point the horn at your subject. Every microphone becomes directional at ultrasonic frequencies, and a horn more so — aim it like a lens.
-3. Start with lower gain than you would use without the horn. It adds around 15 dB of acoustic level, so loud or very close sources will overload the microphone roughly 15 dB sooner than usual.
+3. Start with lower gain than you would use without the horn. It adds up to 18 dB of acoustic level in the high frequencies, so loud or very close sources will overload the microphone sooner than usual.
 4. For stand mounting, seat the horn in the Uši mount — its outer diameter matches the Uši body.
 5. To hear what you recorded, slow the file down — see [how to record ultrasound](../tips/recording-ultrasound.md).
 

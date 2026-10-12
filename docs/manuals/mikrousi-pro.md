@@ -204,7 +204,7 @@ mikroUši Pro pairs maximum concealment with professional balanced connections: 
 <img src="../../images/mikrousi_ultrasonic_horn.jpg" alt="">
 <div class="accessory-body">
 <div class="accessory-title">mikroUši ultrasonic horn</div>
-<div class="accessory-desc">Passive ~+15 dB acoustic boost from 1 kHz into the ultrasonic range · 6 g</div>
+<div class="accessory-desc">Up to +18 dB of passive acoustic gain in the high frequencies · 6 g</div>
 <div class="accessory-links"><a class="buy" href="https://store.lom.audio/products/mikrousi-ultrasonic-horn">Buy</a> <span class="sep">·</span> <a class="ref" href="../mikrousi-ultrasonic-horn/">Details</a></div>
 </div>
 </div>
