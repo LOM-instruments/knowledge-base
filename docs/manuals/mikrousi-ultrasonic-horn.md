@@ -67,6 +67,18 @@ Ultrasonic amplification horn for the current version of the mikroUši series mi
 
 </div>
 
+<div class="banner">
+<h2>Acoustic gain</h2>
+</div>
+
+<div class="prose-block" markdown>
+
+<div class="chart"><img src="../../images/mikrousi-horn-gain.png" alt="Gain of the mikroUši ultrasonic horn relative to a bare mikroUši" loading="lazy"></div>
+
+*Gain of the horn relative to a bare mikroUši (0 dB), 1/1-octave smoothing.*
+
+</div>
+
 <div class="banner dark">
 <h2>Using the horn</h2>
 </div>
